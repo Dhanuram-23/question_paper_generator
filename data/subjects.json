@@ -1,0 +1,85 @@
+{
+  "_note": "Units are numbered from 1 inside each section. 'book' = the tag in the textbook PDF used by tools/extract_exercises.py. 'weight' = default weightage ratio.",
+  "classes": {
+    "10": {
+      "subjects": [
+        {
+          "id": "social",
+          "name": "Social Science",
+          "sections": [
+            { "id": "history", "name": "History", "weight": 3, "units": [
+              { "no": 1, "name": "Outbreak of World War I and Its Aftermath", "book": "History_Unit_1" },
+              { "no": 2, "name": "The World between Two World Wars", "book": "History_Unit_2" },
+              { "no": 3, "name": "World War II", "book": "History_Unit_3" },
+              { "no": 4, "name": "The World after World War II", "book": "History_Unit_4" },
+              { "no": 5, "name": "Social and Religious Reform Movements in the 19th Century", "book": "History_Unit_5" },
+              { "no": 6, "name": "Early Revolts against British Rule in Tamil Nadu", "book": "History_Unit_6" },
+              { "no": 7, "name": "Anti-Colonial Movements and the Birth of Nationalism", "book": "History_Unit_7" },
+              { "no": 8, "name": "Nationalism: Gandhian Phase", "book": "History_Unit_8" },
+              { "no": 9, "name": "Freedom Struggle in Tamil Nadu", "book": "History_Unit_9" },
+              { "no": 10, "name": "Social Transformation in Tamil Nadu", "book": "History_Unit_10" } ] },
+            { "id": "geography", "name": "Geography", "weight": 2, "units": [
+              { "no": 1, "name": "India – Location, Relief and Drainage", "book": "Geography_Unit_1" },
+              { "no": 2, "name": "Climate and Natural Vegetation of India", "book": "Geography_Unit_2" },
+              { "no": 3, "name": "India – Agriculture", "book": "Geography_Unit_3" },
+              { "no": 4, "name": "India – Resources and Industries", "book": "Geography_Unit_4" },
+              { "no": 5, "name": "India – Population, Transport, Communication & Trade", "book": "Geography_Unit_5" },
+              { "no": 6, "name": "Physical Geography of Tamil Nadu", "book": "Geography_Unit_6" },
+              { "no": 7, "name": "Human Geography of Tamil Nadu", "book": "Geography_Unit_7" } ] },
+            { "id": "civics", "name": "Civics", "weight": 1, "units": [
+              { "no": 1, "name": "Indian Constitution", "book": "Civics_Unit_1" },
+              { "no": 2, "name": "Central Government", "book": "Civics_Unit_2" },
+              { "no": 3, "name": "State Government", "book": "Civics_Unit_3" },
+              { "no": 4, "name": "India's Foreign Policy", "book": "Civics_Unit_4" },
+              { "no": 5, "name": "India's International Relations", "book": "Civics_Unit_5" } ] },
+            { "id": "economics", "name": "Economics", "weight": 1, "units": [
+              { "no": 1, "name": "Gross Domestic Product and its Growth", "book": "Economics_Unit_1" },
+              { "no": 2, "name": "Globalization and Trade", "book": "Economics_Unit_2" },
+              { "no": 3, "name": "Food Security and Nutrition", "book": "Economics_Unit_3" },
+              { "no": 4, "name": "Government and Taxes", "book": "Economics_Unit_4" },
+              { "no": 5, "name": "Industrial Clusters in Tamil Nadu", "book": "Economics_Unit_5" } ] }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "sections": [
+            { "id": "physics", "name": "Physics", "units": [
+              { "no": 1, "name": "Laws of Motion (Book unit 1)", "book": "Unit-1" },
+              { "no": 2, "name": "Optics (Book unit 2)", "book": "Unit-2" },
+              { "no": 3, "name": "Thermal Physics (Book unit 3)", "book": "Unit-3" },
+              { "no": 4, "name": "Electricity (Book unit 4)", "book": "Unit-4" },
+              { "no": 5, "name": "Acoustics (Book unit 5)", "book": "Unit-5" },
+              { "no": 6, "name": "Nuclear Physics (Book unit 6)", "book": "Unit-6" } ] },
+            { "id": "chemistry", "name": "Chemistry", "units": [
+              { "no": 1, "name": "Atoms and Molecules (Book unit 7)", "book": "Unit-7" },
+              { "no": 2, "name": "Periodic Classification of Elements (Book unit 8)", "book": "Unit-8" },
+              { "no": 3, "name": "Solutions (Book unit 9)", "book": "Unit-9" },
+              { "no": 4, "name": "Types of Chemical Reactions (Book unit 10)", "book": "Unit-10" },
+              { "no": 5, "name": "Carbon and its Compounds (Book unit 11)", "book": "Unit-11" } ] },
+            { "id": "botany", "name": "Botany", "units": [
+              { "no": 1, "name": "Plant Anatomy and Plant Physiology (Book unit 12)", "book": "Unit-12" },
+              { "no": 2, "name": "Transportation in Plants and Circulation in Animals (Book unit 14)", "book": "Unit-14" },
+              { "no": 3, "name": "Plant and Animal Hormones (Book unit 16)", "book": "Unit-16" },
+              { "no": 4, "name": "Genetics (Book unit 18)", "book": "Unit-18" },
+              { "no": 5, "name": "Breeding and Biotechnology (Book unit 20)", "book": "Unit-20" },
+              { "no": 6, "name": "Environmental Management (Book unit 22)", "book": "Unit-22" } ] },
+            { "id": "zoology", "name": "Zoology", "units": [
+              { "no": 1, "name": "Structural Organisation of Animals (Book unit 13)", "book": "Unit-13" },
+              { "no": 2, "name": "Nervous System (Book unit 15)", "book": "Unit-15" },
+              { "no": 3, "name": "Reproduction in Plants and Animals (Book unit 17)", "book": "Unit-17" },
+              { "no": 4, "name": "Origin and Evolution of Life (Book unit 19)", "book": "Unit-19" },
+              { "no": 5, "name": "Health and Diseases (Book unit 21)", "book": "Unit-21" } ] },
+            { "id": "computer", "name": "Computer Science", "units": [
+              { "no": 1, "name": "Visual Communication (Book unit 23)", "book": "23" } ] }
+          ]
+        },
+        { "id": "maths", "name": "Mathematics", "units": [
+            { "no": 1, "name": "Unit 1" }, { "no": 2, "name": "Unit 2" }, { "no": 3, "name": "Unit 3" },
+            { "no": 4, "name": "Unit 4" }, { "no": 5, "name": "Unit 5" }, { "no": 6, "name": "Unit 6" } ] },
+        { "id": "english", "name": "English", "units": [
+            { "no": 1, "name": "Unit 1" }, { "no": 2, "name": "Unit 2" }, { "no": 3, "name": "Unit 3" }, { "no": 4, "name": "Unit 4" } ] }
+      ]
+    }
+  }
+}

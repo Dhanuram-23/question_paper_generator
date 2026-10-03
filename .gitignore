@@ -1,0 +1,5 @@
+books/
+tools/review/
+~$*.xlsx
+.DS_Store
+__pycache__/

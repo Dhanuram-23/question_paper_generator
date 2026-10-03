@@ -1,0 +1,5999 @@
+{
+ "questions": [
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "What were the three major empires shattered by the end of First World War?",
+   "options": [
+    "Germany, Austria Hungary, and the Ottomans",
+    "Germany, Austria-Hungary, and Russia",
+    "Spain, Portugal and Italy",
+    "Germany, Austria-Hungary, Italy"
+   ],
+   "id": "10-social-history-1-001"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Which country emerged as the strongest in East Asia towards the close of nineteenth century?",
+   "options": [
+    "China",
+    "Japan",
+    "Korea",
+    "Mongolia"
+   ],
+   "id": "10-social-history-1-002"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Who said “imperialism is the highest stage of capitalism”?",
+   "options": [
+    "Lenin",
+    "Marx",
+    "Sun Yat-sen",
+    "Mao Tsetung"
+   ],
+   "id": "10-social-history-1-003"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "What is the Battle of Marne remembered for?",
+   "options": [
+    "air warfare",
+    "trench warfare",
+    "submarine warfare",
+    "ship warfare"
+   ],
+   "id": "10-social-history-1-004"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "To which country did the first Secretary General of League of Nations belong?",
+   "options": [
+    "Britain",
+    "France",
+    "Dutch",
+    "USA"
+   ],
+   "id": "10-social-history-1-005"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Which country was expelled from the League of Nations for attacking Finland?",
+   "options": [
+    "Germany",
+    "Russia",
+    "Italy",
+    "France"
+   ],
+   "id": "10-social-history-1-006"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "fill",
+   "q": "Japan forced a war on China in the year ___.",
+   "id": "10-social-history-1-007"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "fill",
+   "q": "The new state of Albania was created according to the Treaty of ___ signed in May 1913.",
+   "id": "10-social-history-1-008"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "fill",
+   "q": "Japan entered into an alliance with England in the year ___.",
+   "id": "10-social-history-1-009"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "fill",
+   "q": "In the Balkans ___ had mixed population.",
+   "id": "10-social-history-1-010"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "fill",
+   "q": "In the battle of Tannenberg ___ suffered heavy losses.",
+   "id": "10-social-history-1-011"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "fill",
+   "q": "___ as Prime Minister represented France in Paris Peace Conference.",
+   "id": "10-social-history-1-012"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "fill",
+   "q": "Locarno Treaty was signed in the year ___.",
+   "id": "10-social-history-1-013"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "i) The Turkish Empire contained many non-Turkish people in the Balkans. ii) Turkey fought on the side of the central powers iii) Turkey’s attempt to attack Suez Canal but were repulsed.",
+   "options": [
+    "i) and ii) are correct",
+    "i) and iii) are correct",
+    "ii) and iii) are correct",
+    "i), ii) and iii) are correct"
+   ],
+   "id": "10-social-history-1-014"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Assertion: The first European attempts to carve out colonies in Africa resulted in bloody battles. Reason: There was stiffresistance from the native population.",
+   "options": [
+    "Both A and R are correct",
+    "A is right but R is not the correct reason",
+    "Both A and R are wrong",
+    "R is right but A is wrong."
+   ],
+   "id": "10-social-history-1-015"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "match",
+   "q": "1. Treaty of BrestLitovsk - Versailles\n2. Jingoism - Turkey\n3. Kemal Pasha - Russia with\nGermany\n4. Emden - England\n5. Hall of Mirrors - Madras",
+   "id": "10-social-history-1-016"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "short",
+   "q": "How do you assess the importance of Sino-Japanese War?",
+   "id": "10-social-history-1-017"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "short",
+   "q": "Name the countries in the Triple Entente.",
+   "id": "10-social-history-1-018"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "short",
+   "q": "What were the three militant forms of nationalism in Europe?",
+   "id": "10-social-history-1-019"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "short",
+   "q": "What do you know of trench warfare?",
+   "id": "10-social-history-1-020"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "short",
+   "q": "What was the role of Mustafa Kemal Pasha?",
+   "id": "10-social-history-1-021"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "short",
+   "q": "List out any two causes for the failure of the League of Nations.",
+   "id": "10-social-history-1-022"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "long",
+   "q": "Discuss the main causes of the First World War.",
+   "id": "10-social-history-1-023"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "long",
+   "q": "Highlight the provisions of the Treaty of Versailles relating to Germany.",
+   "id": "10-social-history-1-024"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "long",
+   "q": "Explain the course of the Russian Revolution under the leadership of Lenin.",
+   "id": "10-social-history-1-025"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "long",
+   "q": "Estimate the work done by the League of Nations.",
+   "id": "10-social-history-1-026"
+  },
+  {
+   "section": "history",
+   "unit": 1,
+   "type": "map",
+   "q": "1. Great Britain 2. Germany\n3. France 4. Italy\n5. Morocco 6. Turkey\n7. Serbia 8. Bosnia\n9. Greece 10. Austria-Hungary\n11. Bulgaria 12. Rumania",
+   "id": "10-social-history-1-027"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "mcq",
+   "q": "With whom of the following was the Lateran Treaty signed by Italy?",
+   "options": [
+    "Germany",
+    "Russia",
+    "Pope",
+    "Spain"
+   ],
+   "id": "10-social-history-2-001"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "mcq",
+   "q": "With whose conquest did the Mexican civilization collapse?",
+   "options": [
+    "Hernan Cortes",
+    "Francisco Pizarro",
+    "Toussaint Louverture",
+    "Pedro I"
+   ],
+   "id": "10-social-history-2-002"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Who made Peru as part of their dominions?",
+   "options": [
+    "English",
+    "Spaniards",
+    "Russians",
+    "French"
+   ],
+   "id": "10-social-history-2-003"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Which President of the USA pursued “Good Neighbour” policy towards Latin America?",
+   "options": [
+    "Franklin D. Roosevelt",
+    "Truman",
+    "Woodrow Wilson",
+    "Eisenhower"
+   ],
+   "id": "10-social-history-2-004"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Which part of the world disliked dollar imperialism?",
+   "options": [
+    "Europe",
+    "Latin America",
+    "India",
+    "China"
+   ],
+   "id": "10-social-history-2-005"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "fill",
+   "q": "The founder of the Social Democratic Party was ___.",
+   "id": "10-social-history-2-006"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "fill",
+   "q": "The Nazi Party’s propaganda was led by ___.",
+   "id": "10-social-history-2-007"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "fill",
+   "q": "The Vietnam Nationalist Party was formed in ___.",
+   "id": "10-social-history-2-008"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "fill",
+   "q": "The Secret State Police in Nazi Germany was known as ___.",
+   "id": "10-social-history-2-009"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "fill",
+   "q": "The Union of South Africa came into being in May ___.",
+   "id": "10-social-history-2-010"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "fill",
+   "q": "The ANC leader Nelson Mandela was put behind the bars for ___ years",
+   "id": "10-social-history-2-011"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "fill",
+   "q": "Boers were also known as ___.",
+   "id": "10-social-history-2-012"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "mcq",
+   "q": "i) During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front ii) The first huge market crash in the US occurred on 24 October 1929. iii) The ban on African National Congress was lifted in 1966.",
+   "options": [
+    "i) and ii) are correct",
+    "iii) is correct",
+    "ii) and iii) are correct",
+    "i), ii) and iii) are correct"
+   ],
+   "id": "10-social-history-2-013"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Assertion: The Berlin Colonial Conference of 1884–85 had resolved that Africa should be divided into spheres of influence of various colonial powers. Reason: The war between the British and Boers in South Africa, however, was in defiance of this resolution.",
+   "options": [
+    "Both A and R are right",
+    "A is right but R is not the right reason",
+    "Both A and R are wrong",
+    "A is wrong and R has no relevance to A"
+   ],
+   "id": "10-social-history-2-014"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "match",
+   "q": "1. Transvaal - President of Germany\n2. Hindenburg - Hitler\n3. Third Reich - Italy\n4. Matteotti - gold",
+   "id": "10-social-history-2-015"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "short",
+   "q": "What do you know of the White Terror in Indo-China?",
+   "id": "10-social-history-2-016"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "short",
+   "q": "What was the result of Mussolini’s march on Rome?",
+   "id": "10-social-history-2-017"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "short",
+   "q": "How did Great Depression impact on the Indian agriculture?",
+   "id": "10-social-history-2-018"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "short",
+   "q": "Define “Dollar Imperialism.”",
+   "id": "10-social-history-2-019"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "long",
+   "q": "Trace the circumstances that led to the rise of Hitler in Germany.",
+   "id": "10-social-history-2-020"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "long",
+   "q": "Attempt a narrative account of how the process of decolonization happened in India during the inter-war period (1919-39).",
+   "id": "10-social-history-2-021"
+  },
+  {
+   "section": "history",
+   "unit": 2,
+   "type": "long",
+   "q": "Describe the rise and growth of nationalist politics in South Africa.",
+   "id": "10-social-history-2-022"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "When did the Japanese formally sign of their surrender?",
+   "options": [
+    "2 September, 1945",
+    "2 October, 1945",
+    "15 August, 1945",
+    "12 October, 1945"
+   ],
+   "id": "10-social-history-3-001"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Who initiated the formation of League of Nations?",
+   "options": [
+    "Roosevelt",
+    "Chamberlain",
+    "Woodrow Wilson",
+    "Baldwin"
+   ],
+   "id": "10-social-history-3-002"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Where was the Japanese Navy defeated by the US Navy?",
+   "options": [
+    "Battle of Guadalcanal",
+    "Battle of Midway",
+    "Battle of Leningrad",
+    "Battle of El Alamein"
+   ],
+   "id": "10-social-history-3-003"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Where did the US drop its first atomic bomb?",
+   "options": [
+    "Kavashaki",
+    "Tokyo",
+    "Hiroshima",
+    "Nagasaki"
+   ],
+   "id": "10-social-history-3-004"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Who were mainly persecuted by Hitler?",
+   "options": [
+    "Russians",
+    "Arabs",
+    "Turks",
+    "Jews"
+   ],
+   "id": "10-social-history-3-005"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Which Prime Minister of England signed the Munich Pact with Germany?",
+   "options": [
+    "Chamberlain",
+    "Winston Churchill",
+    "Lloyd George",
+    "Stanley Baldwin"
+   ],
+   "id": "10-social-history-3-006"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "When was the Charter of the UN signed?",
+   "options": [
+    "June 26, 1942",
+    "June 26, 1945",
+    "January 1, 1942",
+    "January 1, 1945"
+   ],
+   "id": "10-social-history-3-007"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "fill",
+   "q": "Hitler attacked ___ which was a demilitarised zone.",
+   "id": "10-social-history-3-008"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "fill",
+   "q": "The alliance between Italy, Germany and Japan is known as ___.",
+   "id": "10-social-history-3-009"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "fill",
+   "q": "Britain Prime Minister ___ resigned in 1940.",
+   "id": "10-social-history-3-010"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "fill",
+   "q": "___ is a device used to find out the enemy aircraft from a distance.",
+   "id": "10-social-history-3-011"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Assertion: President Roosevelt realised that the United States had to change its policy of isolation. Reason: He started a programme of Lend Lease in 1941.",
+   "options": [
+    "Both A and R are correct",
+    "A is right but R is not the correct reason",
+    "Both A and R are wrong",
+    "R is right but it has no relevance to A"
+   ],
+   "id": "10-social-history-3-012"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "match",
+   "q": "1. Blitzkrieg - Stalingrad\n2. Royal Navy - Solomon Island\n3. Volga - Britain\n4. Guadalcanal - lightning strike",
+   "id": "10-social-history-3-013"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "short",
+   "q": "Who were the three prominent dictators of the post World War I?",
+   "id": "10-social-history-3-014"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "short",
+   "q": "How did Hitler get the support from the people of Germany?",
+   "id": "10-social-history-3-015"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "short",
+   "q": "Describe the Pearl Harbour incident.",
+   "id": "10-social-history-3-016"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "short",
+   "q": "What do you know of Beveridge Report?.",
+   "id": "10-social-history-3-017"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "short",
+   "q": "Name the Bretton Woods Twins.",
+   "id": "10-social-history-3-018"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "short",
+   "q": "What are the objectives of IMF?",
+   "id": "10-social-history-3-019"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "long",
+   "q": "Analyse the effects of the World War II.",
+   "id": "10-social-history-3-020"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "long",
+   "q": "Assess the structure and the activities of the UN.",
+   "id": "10-social-history-3-021"
+  },
+  {
+   "section": "history",
+   "unit": 3,
+   "type": "map",
+   "q": "1. Axis Power Countries\n2. Allied Power Countries\n3. Hiroshima, Nagasaki, Hawaii Islands,\nMoscow, San Fransico",
+   "id": "10-social-history-3-022"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Which American President followed the policy of containment of Communism?.",
+   "options": [
+    "Woodrow Wilson",
+    "Truman",
+    "Theodore Roosevelt",
+    "Franklin Roosevelt"
+   ],
+   "id": "10-social-history-4-001"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "When was People’s Political Consultative Conference held in China?",
+   "options": [
+    "September 1959",
+    "September 1948",
+    "September 1954",
+    "September 1949"
+   ],
+   "id": "10-social-history-4-002"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The United States and European allies formed ___ to resist any Soviet aggression in Europe.",
+   "options": [
+    "SEATO",
+    "NATO",
+    "CENTO",
+    "Warsaw Pact"
+   ],
+   "id": "10-social-history-4-003"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Who became the Chairman of the PLO’s Executive Committee in 1969?",
+   "options": [
+    "Hafez al-Assad",
+    "Yasser Arafat",
+    "Nasser",
+    "Saddam Hussein"
+   ],
+   "id": "10-social-history-4-004"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "When was North and South Vietnam united?",
+   "options": [
+    "1975",
+    "1976",
+    "1973",
+    "1974"
+   ],
+   "id": "10-social-history-4-005"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "When was the Warsaw Pact dissolved?",
+   "options": [
+    "1979",
+    "1989",
+    "1990",
+    "1991"
+   ],
+   "id": "10-social-history-4-006"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "___ was known as the “Father of modern China”.",
+   "id": "10-social-history-4-007"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "In 1918, the society for the study of Marxism was formed in ___ University.",
+   "id": "10-social-history-4-008"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "After the death of Dr. Sun Yat Sen, the leader of the Kuomintang party was ___.",
+   "id": "10-social-history-4-009"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "___ treaty is open to any Arab nation desiring peace and security in the region.",
+   "id": "10-social-history-4-010"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "The treaty of ___ provided for mandates in Turkish -Arab Empire.",
+   "id": "10-social-history-4-011"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "Germany joined the NATO in ___.",
+   "id": "10-social-history-4-012"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "___ was the Headquarters of the Council of Europe.",
+   "id": "10-social-history-4-013"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "fill",
+   "q": "___ treaty signed on February 7, 1992 created the European Union.",
+   "id": "10-social-history-4-014"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army. ii) The chief objective of NATO was to preserve peace and security in the North Atlantic region. iii) The member countries of SEATO were committed to prevent democracy from gaining ground in the region.",
+   "options": [
+    "(ii) and (iii) are correct",
+    "(i) and (ii) are correct",
+    "(i) and (iii) are correct",
+    "(i), (ii) and (iii) are correct"
+   ],
+   "id": "10-social-history-4-015"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Assertion (A): America’s Marshall Plan was for reconstruction of the war-ravaged Europe. Reason (R): The US conceived the Marshal Plan to bring the countries in the Western Europe under its influence.",
+   "options": [
+    "Both (A) and (R) are correct, but R is not the correct explanation of A",
+    "Both (A) and (R) are wrong",
+    "Both (A) and (R) are correct and R is the correct explanation of A",
+    "(A) is wrong and (R) is correct"
+   ],
+   "id": "10-social-history-4-016"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "match",
+   "q": "1. Dr. Sun Yat-Sen - South Vietnam\n2. Syngman Rhee - Kuomintung\n3. Anwar Sadat - South Korea\n4. Ho-Chi Minh - Egypt\n5. Ngo Dinh Diem - North Vietnam",
+   "id": "10-social-history-4-017"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "short",
+   "q": "Write any three causes for the Chinese Revolution of 1911.",
+   "id": "10-social-history-4-018"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "short",
+   "q": "Write a note on Mao’s Long March.",
+   "id": "10-social-history-4-019"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "short",
+   "q": "What do you know of Baghdad Pact?",
+   "id": "10-social-history-4-020"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "short",
+   "q": "What was Marshall Plan?",
+   "id": "10-social-history-4-021"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "short",
+   "q": "Write a note on Third World Countries.",
+   "id": "10-social-history-4-022"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "short",
+   "q": "How was the Cuban missile crisis defused?",
+   "id": "10-social-history-4-023"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "long",
+   "q": "Estimate the role of Mao Tse Tung in making China a communist country.",
+   "id": "10-social-history-4-024"
+  },
+  {
+   "section": "history",
+   "unit": 4,
+   "type": "long",
+   "q": "Narrate the history of transformation of Council of Europe into an European Union.",
+   "id": "10-social-history-4-025"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "In which year was Sati abolished?",
+   "options": [
+    "1827",
+    "1829",
+    "1826",
+    "1927"
+   ],
+   "id": "10-social-history-5-001"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "What was the name of the Samaj founded by Dayanand Saraswati?",
+   "options": [
+    "Arya Samaj",
+    "Brahmo Samaj",
+    "Prarthana Samaj",
+    "Adi Brahmo Samaj"
+   ],
+   "id": "10-social-history-5-002"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Whose campaign and work led to the enactment of Widow Remarriage Reform Act of 1856?",
+   "options": [
+    "Iswarchandra Vidyasagar",
+    "Raja Rammohan Roy",
+    "Annie Besant",
+    "Jyotiba Phule"
+   ],
+   "id": "10-social-history-5-003"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Whose voice was Rast Goftar?",
+   "options": [
+    "Parsi Movement",
+    "Aligarh Movement",
+    "Ramakrishna Mission",
+    "Dravida Mahajana Sabha"
+   ],
+   "id": "10-social-history-5-004"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Who was the founder of Namdhari Movement?",
+   "options": [
+    "Baba Dayal Das",
+    "Baba Ramsingh",
+    "Gurunanak",
+    "Jyotiba Phule"
+   ],
+   "id": "10-social-history-5-005"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Who was the founder of Widow Remarriage Association?",
+   "options": [
+    "Mahadev Govind Ranade",
+    "Devendranath Tagore",
+    "Jyotiba Phule",
+    "Ayyankali"
+   ],
+   "id": "10-social-history-5-006"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Who was the author of the book Satyarthaprakash?",
+   "options": [
+    "Dayananda Saraswathi",
+    "Iyothee Thassar",
+    "Annie Besant",
+    "Narayana Guru"
+   ],
+   "id": "10-social-history-5-007"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "fill",
+   "q": "___ founded the Samarasa Vedha Sanmarga Sangam.",
+   "id": "10-social-history-5-008"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "fill",
+   "q": "The founder of Poona Sarvajanik Sabha was ___.",
+   "id": "10-social-history-5-009"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "fill",
+   "q": "Gulamgiri was written by ___.",
+   "id": "10-social-history-5-010"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "fill",
+   "q": "Ramakrishna Mission was established by ___.",
+   "id": "10-social-history-5-011"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "fill",
+   "q": "___ was the forerunner of Akali Movement.",
+   "id": "10-social-history-5-012"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "fill",
+   "q": "Oru Paisa Tamilan was started by ___.",
+   "id": "10-social-history-5-013"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "i) Raja Rammohan Roy preached monotheism ii) He encouraged idolatry iii) He published tracts condemning social evils",
+   "options": [
+    "i) is correct",
+    "i) and ii) are correct",
+    "i), ii) and iii) are correct",
+    "i) and iii) are correct"
+   ],
+   "id": "10-social-history-5-014"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "i) Prarthana Samaj was founded by Dr. Atma Ram Pandurang ii) Prarthana Samaj encouraged inter-dining and inter-caste marriage iii) Jyotiba Phule worked for the upliftment of men. iv) Prarthana Samaj had it’s origin in the Punjab.",
+   "options": [
+    "i) is correct",
+    "ii) is correct",
+    "i) and ii) are correct",
+    "iii) and iv) are correct"
+   ],
+   "id": "10-social-history-5-015"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities. ii) Ramakrishna emphasised the spiritual union with god through ecstatic practices. iii) Ramakrishna established the Ramakrishna Mission",
+   "options": [
+    "i) is correct",
+    "i) and ii) are correct",
+    "iii) is correct",
+    "i) and iii) correct"
+   ],
+   "id": "10-social-history-5-016"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Assertion: Jyotiba Phule opened orphanages and homes for widows Reason: Jyotiba Phule opposed child marriage and supported widow remarriage",
+   "options": [
+    "Assertion is correct but reason is not apt to the assertion",
+    "Assertion is correct and the reason is apt to the assertion",
+    "Both are wrong",
+    "Reason is correct but assertion is"
+   ],
+   "id": "10-social-history-5-017"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "match",
+   "q": "1. Oru Paisa - Widows Remarriage\nTamilan Reform Act\n2. Thiruvarutpa - Nirankari\n3. Baba Dayal Das - Adi Bramo Samaj\n4. Iswarchandra\nVidyasagar - Journal\n5. Debendranath - Songs of Grace",
+   "id": "10-social-history-5-018"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "short",
+   "q": "Mention the four articles of faith laid down by Maharishi Debendranath Tagore?",
+   "id": "10-social-history-5-019"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "short",
+   "q": "Discuss Mahadev Govind Ranade’s contribution to social reforms.",
+   "id": "10-social-history-5-020"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "short",
+   "q": "Write a note on reforms of Ramalinga Adigal.",
+   "id": "10-social-history-5-021"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "short",
+   "q": "List the social evils eradicated by Brahmo Samaj.",
+   "id": "10-social-history-5-022"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "short",
+   "q": "Highlight the work done by Jyotiba Phule for the welfare of the poor and the marginalized.",
+   "id": "10-social-history-5-023"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "long",
+   "q": "Discuss the circumstances that led to the Reform movements of 19th century.",
+   "id": "10-social-history-5-024"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "long",
+   "q": "Evaluate the contributions of Ramakrishna Paramahamsa and Swami Vivekananda to regenerate Indian society.",
+   "id": "10-social-history-5-025"
+  },
+  {
+   "section": "history",
+   "unit": 5,
+   "type": "long",
+   "q": "Write an essay on the role played by the 19th century reformers towards the cause of Women.",
+   "id": "10-social-history-5-026"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Who was the first Palayakkarars to resist the East India Company’s policy of territorial aggrandizement?",
+   "options": [
+    "Marudhu brothers",
+    "Puli Thevar",
+    "Velunachiyar",
+    "Veerapandya Kattabomman"
+   ],
+   "id": "10-social-history-6-001"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Who had established close relationship with the three agents of Chanda Sahib?",
+   "options": [
+    "Velunachiyar",
+    "Kattabomman",
+    "Puli Thevar",
+    "Oomai thurai"
+   ],
+   "id": "10-social-history-6-002"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Where was Sivasubramanianar executed?",
+   "options": [
+    "Kayathar",
+    "Nagalapuram",
+    "Virupachi",
+    "Panchalankurichi"
+   ],
+   "id": "10-social-history-6-003"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Who issued the Tiruchirappalli proclamation of Independence?",
+   "options": [
+    "Marudhu brothers",
+    "Puli Thevar",
+    "Veerapandya Kattabomman",
+    "Gopala Nayak"
+   ],
+   "id": "10-social-history-6-004"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "When did the Vellore Revolt breakout?",
+   "options": [
+    "24 May 1805",
+    "10 July 1805",
+    "10 July 1806",
+    "10 September 1806"
+   ],
+   "id": "10-social-history-6-005"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Who was the Commander-in-Chief responsible for the new military regulations in Vellore fort?",
+   "options": [
+    "Col. Fancourt",
+    "Major Armstrong",
+    "Sir John Cradock",
+    "Colonel Agnew"
+   ],
+   "id": "10-social-history-6-006"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Where were the sons of Tipu Sultan sent after the Vellore Revolt?",
+   "options": [
+    "Calcutta",
+    "Mumbai",
+    "Delhi",
+    "Mysore"
+   ],
+   "id": "10-social-history-6-007"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "fill",
+   "q": "The Palayakkarars system was put in place in Tamil Nadu by ___.",
+   "id": "10-social-history-6-008"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "fill",
+   "q": "Velunachiyar and her daughter were under the protection of ___ for eight years.",
+   "id": "10-social-history-6-009"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "fill",
+   "q": "Bannerman deputed ___ to convey his message, asking Kattabomman to surrender.",
+   "id": "10-social-history-6-010"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "fill",
+   "q": "Kattabomman was hanged to death at ___.",
+   "id": "10-social-history-6-011"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "fill",
+   "q": "The Rebellion of Marudhu Brothers was categorized in the British records as the ___.",
+   "id": "10-social-history-6-012"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "fill",
+   "q": "___ was declared the new Sultan by the rebels in Vellore Fort.",
+   "id": "10-social-history-6-013"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "i) The Palayakkarars system was in practice in the Kakatiya Kingdom. ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib. iii) Yusuf Khan who was negotiating with the Palayakkarars, without informing the Company administration was charged with treachery and hanged in 1764. iv) Ondiveeran led one of the army units of Kattabomman.",
+   "options": [
+    "(i), (ii) and (iv) are correct",
+    "(i), (ii) and (iii) are correct",
+    "(iii) and (iv) are correct",
+    "(i) and (iv) are correct"
+   ],
+   "id": "10-social-history-6-014"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "i) Under Colonel Campbell, the English Army went along with Mahfuzkhan’s army. ii) After Muthu Vadugar’s death in Kalaiyar Kovil battle, Marudhu Brothers assisted Velunachiyar in restoring the throne to her. iii) Gopala Nayak spearheaded the famous Dindigul League. iv) In May 1799 Cornwallis ordered the advance of Company armies to Tirunelveli.",
+   "options": [
+    "(i) and (ii) are correct",
+    "(ii) and (iii) are correct",
+    "(ii), (iii) and (iv )are correct",
+    "(i) and (iv) are correct"
+   ],
+   "id": "10-social-history-6-015"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Assertion (A):Puli Thevar tried to get the support of Hyder Ali and the French. Reason (R): Hyder Ali could not help Puli Thevar as he was already in a serious conflict with the Marathas.",
+   "options": [
+    "Both (A) and (R) are correct, but (R) is not the correct explanation of (A)",
+    "Both (A) and (R) are wrong",
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "(A) is wrong and (R) is correct"
+   ],
+   "id": "10-social-history-6-016"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "match",
+   "q": "1. Theerthagiri - Vellore Revolt\n2. Gopala Nayak - Ramalinganar\n3. Bannerman - Dindigul\n4. Subedar Sheik Adam - Odanilai",
+   "id": "10-social-history-6-017"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "short",
+   "q": "What were the duties of the Palayakkarars?",
+   "id": "10-social-history-6-018"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "short",
+   "q": "Identify the Palayams based on the division of east and west.",
+   "id": "10-social-history-6-019"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "short",
+   "q": "What was the significance of the Battle of Kalakadu?",
+   "id": "10-social-history-6-020"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "short",
+   "q": "What was the bone of contention between the Company and Kattabomman?",
+   "id": "10-social-history-6-021"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "short",
+   "q": "Highlight the essence of the Tiruchirappalli Procalamation of 1801.",
+   "id": "10-social-history-6-022"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "long",
+   "q": "Attempt an essay of the heroic fight Veerapandya Kattabomman conducted against the East India Company.",
+   "id": "10-social-history-6-023"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "long",
+   "q": "Highlight the tragic fall of Sivagangai and its outcome.",
+   "id": "10-social-history-6-024"
+  },
+  {
+   "section": "history",
+   "unit": 6,
+   "type": "long",
+   "q": "Account for the outbreak of Vellore Revolt in 1806.",
+   "id": "10-social-history-6-025"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Which one of the following was launched by Haji Shariatullah in 1818 in East Bengal?",
+   "options": [
+    "Wahhabi Rebellion",
+    "Farazi Movement",
+    "Tribal uprising",
+    "Kol Revolt"
+   ],
+   "id": "10-social-history-7-001"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Who declared that “Land belongs to God” and collecting rent or tax on it was against divine law?",
+   "options": [
+    "Titu Mir",
+    "Sidhu",
+    "Dudu Mian",
+    "Shariatullah"
+   ],
+   "id": "10-social-history-7-002"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Who were driven out of their homeland during the process of creation of Zamins under Permanent Settlement?",
+   "options": [
+    "Santhals",
+    "Titu Mir",
+    "Munda",
+    "Kol"
+   ],
+   "id": "10-social-history-7-003"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Find out the militant nationalist from the following.",
+   "options": [
+    "Dadabhai Naoroji",
+    "Justice Govind Ranade",
+    "Bipin Chandra Pal",
+    "Romesh Chandra"
+   ],
+   "id": "10-social-history-7-004"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "When did the Partition of Bengal come into effect?",
+   "options": [
+    "19 June 1905",
+    "18 July 1906",
+    "19 August 1907",
+    "16 October 1905"
+   ],
+   "id": "10-social-history-7-005"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "What was the context in which the Chotanagpur Tenancy Act was passed?",
+   "options": [
+    "Kol Revolt",
+    "Indigo Revolt",
+    "Munda Rebellion",
+    "Deccan Riots"
+   ],
+   "id": "10-social-history-7-006"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Who set up the first Home Rule League in April 1916?",
+   "options": [
+    "Annie Basant",
+    "Bipin Chandra Pal",
+    "Lala Lajpat Rai",
+    "Tilak"
+   ],
+   "id": "10-social-history-7-007"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Who drew the attention of the British to the suffering of Indigo cultivation through his play Nil darpan?",
+   "options": [
+    "Dina Bandhu Mitra",
+    "Romesh Chandra Dutt",
+    "Dadabhai Naoroji",
+    "Birsa Munda"
+   ],
+   "id": "10-social-history-7-008"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "fill",
+   "q": "_________ was an anti–imperial and anti-landlord movement which originated in and around 1827.",
+   "id": "10-social-history-7-009"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "fill",
+   "q": "The major tribal revolt which took place in Chotanagpur region was _________.",
+   "id": "10-social-history-7-010"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "fill",
+   "q": "Chota Nagpur Act was passed in the year ______.",
+   "id": "10-social-history-7-011"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "fill",
+   "q": "Womesh Chandra Bannerjee was elected the president of Indian National Congress in the year _________.",
+   "id": "10-social-history-7-012"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "(i) The Company received ₹22.5 million from Mir Jafar and invested it to propel the industrial revolution in Britain. (ii) Kols organized an insurrection in 1831-1832, which was directed against government officers and moneylenders. (iii) In 1855, two Santhal brothers, Sidhu and Kanu, led the Santhal Rebellion. (iv) In 1879, an Act was passed to regulate the territories occupied by the Santhals.",
+   "options": [
+    "(i), (ii) and (iii) are correct",
+    "(ii) and (iii) are correct",
+    "(iii) and (iv) are correct",
+    "(i) and (iv) are correct"
+   ],
+   "id": "10-social-history-7-013"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "(i) One of the most significant contributions of the early Indian Nationalists was the formulation of an economic critique of colonialism. (ii) The early Congress leaders stated that the religious exploitation in India was the primary reason for the growing poverty. (iii) One of the goals of the moderate Congress leaders was to achieve Swaraj or self-rule. (iv) The objective of Partition of Bengal was to curtail the Bengali influence and weaken the nationalist movement.",
+   "options": [
+    "(i) and (iii) are correct",
+    "(i) and (iv) are correct",
+    "(ii) and (iii) are correct",
+    "(iii) and (iv) are correct"
+   ],
+   "id": "10-social-history-7-014"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Assersion (A): Under colonial rule, for the first time in Indian history, government claimed a direct proprietary right over forests. Reason (R): Planters used intimidation and violence to compel farmers to grow indigo.",
+   "options": [
+    "Both (A) and (R) are correct, but R is not the correct explanation of A",
+    "Both (A) and (R) are wrong",
+    "Both (A) and (R) are correct and R is the correct explanation of A",
+    "(A) is wrong and (R) is correct"
+   ],
+   "id": "10-social-history-7-015"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Assersion (A): The Revolt of 1857 was brutally suppressed by the British army. Reason (R): The failure of the rebellion was due to the absence of Central authority.",
+   "options": [
+    "Both (A) and (R) are wrong",
+    "(A) is wrong and (R) is correct",
+    "Both (A) and (R) are correct and R is the correct explanation of A",
+    "Both (A) and (R) are correct, but R is"
+   ],
+   "id": "10-social-history-7-016"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "match",
+   "q": "1. Wahhabi Rebellion - Lucknow\n2. Munda Rebellion - Peshwa Baji\nRao II\n3. Begum Hazarat Mahal - Titu Mir\n4. Nana Sahib - Ranchi",
+   "id": "10-social-history-7-017"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "short",
+   "q": "How are the peasant uprisings in British India classified?",
+   "id": "10-social-history-7-018"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "short",
+   "q": "Name the territories annexed by the British under the Doctrine of Lapse.",
+   "id": "10-social-history-7-019"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "short",
+   "q": "Highlight the objectives of Home Rule Movement.",
+   "id": "10-social-history-7-020"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "short",
+   "q": "Summarise the essence of Lucknow Pact.",
+   "id": "10-social-history-7-021"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "long",
+   "q": "Discuss the causes of the Revolt of 1857?",
+   "id": "10-social-history-7-022"
+  },
+  {
+   "section": "history",
+   "unit": 7,
+   "type": "long",
+   "q": "How did the people of Bengal respond to the Partition of Bengal (1905)?",
+   "id": "10-social-history-7-023"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "Who was arrested during the anti-Rowlatt protests in Amritsar?",
+   "options": [
+    "Motilal Nehru",
+    "Dr. Saifuddin Kitchlew",
+    "Mohamed Ali",
+    "Raj Kumar Shukla"
+   ],
+   "id": "10-social-history-8-001"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "In which session of the Indian National Congress was Non-Cooperation approved?",
+   "options": [
+    "Bombay",
+    "Madras",
+    "Calcutta",
+    "Lucknow"
+   ],
+   "id": "10-social-history-8-002"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "Which among the following was declared as ‘Independence Day’?",
+   "options": [
+    "26th January 1930",
+    "26th December 1929",
+    "16th June 1946",
+    "15th January 1947"
+   ],
+   "id": "10-social-history-8-003"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "When was the first Forest Act enacted?",
+   "options": [
+    "1858",
+    "1911",
+    "1865",
+    "1936"
+   ],
+   "id": "10-social-history-8-004"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "On 8 January 1933, which day was observed ___.",
+   "options": [
+    "Temple Entry Day",
+    "Day of Deliverance",
+    "Direct Action Day",
+    "Independence Day"
+   ],
+   "id": "10-social-history-8-005"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "Which Act introduced Provincial Autonomy?",
+   "options": [
+    "1858 Act",
+    "Indian Councils Act, 1909",
+    "Government of India Act, 1919",
+    "Government of India Act, 1935"
+   ],
+   "id": "10-social-history-8-006"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "fill",
+   "q": "Gandhi regarded ___ as his political guru.",
+   "id": "10-social-history-8-007"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "fill",
+   "q": "Khilafat Movement was led by ___.",
+   "id": "10-social-history-8-008"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "fill",
+   "q": "Government of India Act 1919 introduced ___ in the provinces.",
+   "id": "10-social-history-8-009"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "fill",
+   "q": "The Civil Disobedience Movement in North West Frontier Province was led by ___.",
+   "id": "10-social-history-8-010"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "fill",
+   "q": "Ramsay Macdonald announced ___ which provided separate electorates to the minorities and the depressed classes.",
+   "id": "10-social-history-8-011"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "fill",
+   "q": "___ established Congress Radio underground during the Quit India Movement.",
+   "id": "10-social-history-8-012"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "(i) The Communist Party of India was founded in Tashkent in 1920. (ii) M. Singaravelar was tried in the Kanpur Conspiracy Case. (iii) The Congress Socialist Party was formed by Jayaprakash Narayan, Acharya Narendra Dev and Mino Masani. (iv) The Socialists did not participate in the Quit India Movement.",
+   "options": [
+    "(i) and (ii) are correct",
+    "(ii) and (iii) are correct",
+    "(iv) is correct",
+    "(i), (ii) and (iii) are correct"
+   ],
+   "id": "10-social-history-8-013"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "Assertion: The Congress attended the First Round Table Conference. Reason: Gandhi-Irwin Pact enabled the Congress to attend the Second Round Table Conference.",
+   "options": [
+    "Both A and R are correct but R is not the correct explanation",
+    "A is correct but R is wrong",
+    "A is wrong but R is correct",
+    "Both A and R are correct and R is the"
+   ],
+   "id": "10-social-history-8-014"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "mcq",
+   "q": "Assertion: The Congress Ministries resigned in 1939. Reason: The Colonial government of India entered the war without consulting the elected Congress ministries.",
+   "options": [
+    "Both A and R are correct but R is not the correct explanation",
+    "A is correct but R is wrong",
+    "Both A and R are wrong",
+    "Both A and R are correct and R is the"
+   ],
+   "id": "10-social-history-8-015"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "match",
+   "q": "1. Rowlatt Act - Surrender of titles\n2. Non-Cooperation\nMovement - Dyarchy\n3. Government of\nIndia Act, 1919 - M.N. Roy\n4. Communist Party\nof India - Direct Action Day\n5. 16th August 1946 - Black Act",
+   "id": "10-social-history-8-016"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "short",
+   "q": "Describe the Jallianwala Bagh Massacre.",
+   "id": "10-social-history-8-017"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "short",
+   "q": "Write a note on the Khilafat Movement.",
+   "id": "10-social-history-8-018"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "short",
+   "q": "Why did Gandhi withdraw the Non-Cooperation Movement?",
+   "id": "10-social-history-8-019"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "short",
+   "q": "Why was Simon Commission boycotted?",
+   "id": "10-social-history-8-020"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "short",
+   "q": "What is Poorna Swaraj?",
+   "id": "10-social-history-8-021"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "short",
+   "q": "Write a note on Bhagat Singh.",
+   "id": "10-social-history-8-022"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "short",
+   "q": "What are the terms of the Poona Pact?",
+   "id": "10-social-history-8-023"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "long",
+   "q": "Examine the factors that led to the transformation of Gandhi into a mass leader.",
+   "id": "10-social-history-8-024"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "long",
+   "q": "Critically examine the Civil Disobedience Movement as the typical example of Gandhian movement.",
+   "id": "10-social-history-8-025"
+  },
+  {
+   "section": "history",
+   "unit": 8,
+   "type": "long",
+   "q": "Discuss the reasons behind the partition of India.",
+   "id": "10-social-history-8-026"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "Who was the first President of the Madras Mahajana Sabha?",
+   "options": [
+    "T.M. Nair",
+    "P. Rangaiah",
+    "G. Subramaniam",
+    "G.A. Natesan"
+   ],
+   "id": "10-social-history-9-001"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "Where was the third session of the Indian National Congress held?",
+   "options": [
+    "Marina",
+    "Mylapore",
+    "Fort St. George",
+    "Thousand Lights"
+   ],
+   "id": "10-social-history-9-002"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "Who said “Better bullock carts and freedom than a train de luxe with subjection”?",
+   "options": [
+    "Annie Besant",
+    "M. Veeraraghavachari especially by over others ___ dishonesty, lip to rebel against monarch ___ against support or",
+    "B.P. Wadia",
+    "G.S. Arundale"
+   ],
+   "id": "10-social-history-9-003"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "Who among the following were Swarajists?",
+   "options": [
+    "S. Satyamurti",
+    "Kasturirangar",
+    "P. Subbarayan",
+    "Periyar EVR"
+   ],
+   "id": "10-social-history-9-004"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "Who set up the satyagraha camp in Udyavanam near Madras?",
+   "options": [
+    "K. Kamaraj",
+    "C. Rajaji",
+    "K. Santhanam",
+    "T. Prakasam"
+   ],
+   "id": "10-social-history-9-005"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "Where was the anti-Hindi Conference held?",
+   "options": [
+    "Erode",
+    "Madras",
+    "Salem",
+    "Madurai"
+   ],
+   "id": "10-social-history-9-006"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "fill",
+   "q": "___ was appointed the first Indian Judge of the Madras High Court.",
+   "id": "10-social-history-9-007"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "fill",
+   "q": "Nilakanta Brahmachari started the secret society named ___.",
+   "id": "10-social-history-9-008"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "fill",
+   "q": "___ formed the first Congress Ministry in Madras.",
+   "id": "10-social-history-9-009"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "fill",
+   "q": "___ was the founder of the Madras branch of the Muslim League.",
+   "id": "10-social-history-9-010"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "fill",
+   "q": "___ hoisted the national flag atop Fort St. George on 26 January 1932.",
+   "id": "10-social-history-9-011"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "(i) Madras Native Association was founded in 1852. (ii) Tamil nationalist periodical Swadesamitran was started in 1891. (iii) The Madras Mahajana Sabha demanded conduct of civil services examinations only in India (iv) V.S. Srinivasanar was an extremist.",
+   "options": [
+    "(i) and (ii) are correct",
+    "(iii) is correct",
+    "(iv) is correct",
+    "All are correct"
+   ],
+   "id": "10-social-history-9-012"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "mcq",
+   "q": "(i) E.V.R. did not participate in the Non-Cooperation Movement. (ii) Rajaji worked closely with Yakub Hasan of the Muslim League. (iii) Workers did not participate in the Non-Cooperation Movement. (iv) Toddy shops were not picketed in Tamil Nadu.",
+   "options": [
+    "(i) and (ii) are correct",
+    "(i) and (iii) are correct",
+    "(ii) is correct",
+    "(i), (iii) and (iv) are correct"
+   ],
+   "id": "10-social-history-9-013"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "match",
+   "q": "1. MNA - Anti-Hindi agitation\n2. EVR Periyar - Removal of Neill\nStatue\n3. S.N. Somayajulu - Salt Satyagraha\n4. Vedaranyam - Torture Commission\n5. Thalamuthu - Vaikom Hero",
+   "id": "10-social-history-9-014"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "short",
+   "q": "List out the contribution of the moderates.",
+   "id": "10-social-history-9-015"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "short",
+   "q": "Write a note on the Tirunelveli Uprising.",
+   "id": "10-social-history-9-016"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "short",
+   "q": "What is the contribution of Annie Besant to India's freedom struggle?",
+   "id": "10-social-history-9-017"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "long",
+   "q": "Discuss the response to Swadeshi Movement in Tamil Nadu.",
+   "id": "10-social-history-9-018"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "long",
+   "q": "Examine the origin and growth of nonBrahmin Movement in Tamil Nadu.",
+   "id": "10-social-history-9-019"
+  },
+  {
+   "section": "history",
+   "unit": 9,
+   "type": "long",
+   "q": "Describe the role of Tamil Nadu in the Civil Disobedience Movement.",
+   "id": "10-social-history-9-020"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "mcq",
+   "q": "___ established a full-fledged printing press in 1709, at Tranquebar.",
+   "options": [
+    "Caldwell",
+    "F.W. Ellis",
+    "Ziegenbalg",
+    "Meenakshisundaram"
+   ],
+   "id": "10-social-history-10-001"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "mcq",
+   "q": "___ founded Adi Dravida Mahajana Sabha in 1893.",
+   "options": [
+    "Rettaimalai Srinivasan",
+    "B. R. Ambedkar of introspection among Indian intellectuals of rationalism. This led to the Indian renaissance. press acted as a catalyst for the publication and hard to publish Tamil classics. language and literature. It challenged the prevailing the problems of non-Brahmin in the Madras Self-Respect Movement, critiqued fundamentalism became a model for constructive developments of by one country or social",
+    "Rajaji",
+    "M. C. Rajah"
+   ],
+   "id": "10-social-history-10-002"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "mcq",
+   "q": "India’s first organised trade union, the Madras Labour Union was formed in ___.",
+   "options": [
+    "1918",
+    "1917",
+    "1916",
+    "1914"
+   ],
+   "id": "10-social-history-10-003"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "mcq",
+   "q": "___ was established by the Justice Party Government for the selection of Government officials.",
+   "options": [
+    "Staff Selection Board",
+    "Public Service Commission",
+    "Provincial Staff Recruitment Board",
+    "Staff Selection Commission"
+   ],
+   "id": "10-social-history-10-004"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "mcq",
+   "q": "___ was the first elected Legislative Council Member from the depressed class in Madras Province.",
+   "options": [
+    "M. C. Rajah",
+    "Rettaimalai Srinivasan",
+    "T.M. Nair",
+    "P. Varadarajulu"
+   ],
+   "id": "10-social-history-10-005"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "fill",
+   "q": "___ was the first nonEuropean language that went into print.",
+   "id": "10-social-history-10-006"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "fill",
+   "q": "The College of Fort St. George was founded by ___.",
+   "id": "10-social-history-10-007"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "fill",
+   "q": "___ is considered the father of Tamil linguistic purism.",
+   "id": "10-social-history-10-008"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "fill",
+   "q": "___ was the first to approve participation of women in the electoral politics.",
+   "id": "10-social-history-10-009"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "fill",
+   "q": "The name Suriyanarayana Sastri changed in Tamil as _______",
+   "id": "10-social-history-10-010"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "fill",
+   "q": "_______ gave prominence to Tamil music.",
+   "id": "10-social-history-10-011"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "fill",
+   "q": "The first Woman Legislator in India was ______.",
+   "id": "10-social-history-10-012"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "mcq",
+   "q": "(i) Thirukkural was one of the earliest Tamil literary texts to be published in 1812. (ii) Maraimalai Adigal collected and edited different palm leaf manuscripts of the Tamil grammars and literature. (iii) Robert Caldwell established the close affinity between the Dravidian languages in contrast with Sanskrit and also established the antiquity of Tamil. (iv) Thiru.Vi. Kalyanasundaram was an early pioneer in Trade union movement.",
+   "options": [
+    "(i) and (ii) are correct",
+    "(i) and (iii) are correct d) (iv) is correct e) (ii) and (iii) are correct"
+   ],
+   "id": "10-social-history-10-013"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "mcq",
+   "q": "Assertion (A): The Justice Party continued to remain in government from 1920-1937 in Madras Presidency. Reason (R): The Congress Party boycotted the Madras Legislature during this period of Dyarchy.",
+   "options": [
+    "Both A and R are correct",
+    "A is correct, but R is not the correct explanation",
+    "Both A and R are wrong",
+    "R is correct, but it has no relevance"
+   ],
+   "id": "10-social-history-10-014"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "match",
+   "q": "1. Dravidian Home - Maraimalai Adigal\n2. Thozhilalan - Rettaimalai\nSrinivasan\n3. Tani Tamil Iyakkam - Singaravelar\n4. Jeeviya Saritha\nSurukkam - Natesanar",
+   "id": "10-social-history-10-015"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "short",
+   "q": "Write a note on Tamil Renaissance.",
+   "id": "10-social-history-10-016"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "short",
+   "q": "Highlight the contribution of Caldwell for the cause of South Indian languages.",
+   "id": "10-social-history-10-017"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "short",
+   "q": "List out the personalities who contributed to the revival of Tamil literature through their writings.",
+   "id": "10-social-history-10-018"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "short",
+   "q": "Discuss the importance of Hindu Religious Endowment Act passed by the Justice Party?",
+   "id": "10-social-history-10-019"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "short",
+   "q": "Name the newspapers published by the South Indian Liberal Foundation.",
+   "id": "10-social-history-10-020"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "short",
+   "q": "Estimate Periyar as a feminist",
+   "id": "10-social-history-10-021"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "long",
+   "q": "Attempt an essay on the foundation and development of Tamil Renaissance in the 19th Century.",
+   "id": "10-social-history-10-022"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "long",
+   "q": "Describe the background for the formation of the Justice Party and point out its contribution to the cause of social justice.",
+   "id": "10-social-history-10-023"
+  },
+  {
+   "section": "history",
+   "unit": 10,
+   "type": "long",
+   "q": "Estimate Periyar E.V.R’s decisive contribution to the social transformation of Tamil Nadu.",
+   "id": "10-social-history-10-024"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "mcq",
+   "q": "The north-south extent of India is",
+   "options": [
+    "2,500 km",
+    "2,933 km",
+    "3,214 km",
+    "2,814 km"
+   ],
+   "id": "10-social-geography-1-001"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "mcq",
+   "q": "___ River is known as ‘Sorrow of Bihar’.",
+   "options": [
+    "Narmada",
+    "Godavari",
+    "Kosi",
+    "Damodar"
+   ],
+   "id": "10-social-geography-1-002"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "mcq",
+   "q": "A landmass bounded by sea on three sides is referred to as ___.",
+   "options": [
+    "Coast",
+    "Island",
+    "Peninsula",
+    "Strait"
+   ],
+   "id": "10-social-geography-1-003"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "mcq",
+   "q": "The Palk Strait and Gulf of Mannar separates India from ____",
+   "options": [
+    "Goa",
+    "West Bengal",
+    "Sri Lanka",
+    "Maldives"
+   ],
+   "id": "10-social-geography-1-004"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "mcq",
+   "q": "The highest peak in South India is",
+   "options": [
+    "Ooty",
+    "Kodaikanal",
+    "Anaimudi",
+    "Jindhagada"
+   ],
+   "id": "10-social-geography-1-005"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "mcq",
+   "q": "_______ Plains are formed by the older alluviums.",
+   "options": [
+    "Bhabar",
+    "Tarai",
+    "Bhangar",
+    "Khadar"
+   ],
+   "id": "10-social-geography-1-006"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Pulicat Lake is located between the states of",
+   "options": [
+    "West Bengal and Odisha",
+    "Karnataka and Kerala",
+    "Odisha and Andhra Pradesh",
+    "Tamil Nadu and Andhra Pradesh"
+   ],
+   "id": "10-social-geography-1-007"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "match",
+   "q": "1. Tsangpo — Tributary of\nRiver\nGanga\n2. Yamuna — Highest peak in\nIndia\n3. New alluvium — River\nBrahmaputra in\nTibet\n4. Mt. Godwin\nAusten (K2) — Southern part\nof East Coastal\nPlain\n5. Coromandel\nCoast — Khadhar",
+   "id": "10-social-geography-1-008"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "reason",
+   "q": "The Himalayas are called young fold mountains",
+   "id": "10-social-geography-1-009"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "reason",
+   "q": "North Indian Rivers are perennial",
+   "id": "10-social-geography-1-010"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "reason",
+   "q": "South Indian Rivers are east flowing.",
+   "id": "10-social-geography-1-011"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "distinguish",
+   "q": "The Himalayan rivers and Peninsular rivers.",
+   "id": "10-social-geography-1-012"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "distinguish",
+   "q": "Western Ghats and Eastern Ghats.",
+   "id": "10-social-geography-1-013"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "distinguish",
+   "q": "Western Coastal Plains and Eastern Coastal Plains.",
+   "id": "10-social-geography-1-014"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "short",
+   "q": "Name the neighbouring countries of India.",
+   "id": "10-social-geography-1-015"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "short",
+   "q": "Give the importance of IST.",
+   "id": "10-social-geography-1-016"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "short",
+   "q": "Write a short note on Deccan Plateau.",
+   "id": "10-social-geography-1-017"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "short",
+   "q": "State the west flowing rivers of India.",
+   "id": "10-social-geography-1-018"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "short",
+   "q": "Write a brief note on the island group of Lakshadweep.",
+   "id": "10-social-geography-1-019"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "long",
+   "q": "Explain the divisions of Northern Mountains and its importance to India.",
+   "id": "10-social-geography-1-020"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "long",
+   "q": "Give an account on the major peninsular rivers of India.",
+   "id": "10-social-geography-1-021"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "long",
+   "q": "Give a detailed account on the basin of the Ganga.",
+   "id": "10-social-geography-1-022"
+  },
+  {
+   "section": "geography",
+   "unit": 1,
+   "type": "map",
+   "q": "1. Major mountain ranges – Karakoram,\nLadakh, Zaskar, Aravalli, Western Ghats,\nEastern Ghats.\n2. Major rivers – Indus, Ganga, Brahmaputra,\nNarmada, Tapti, Mahanadi, Godavari,\nKrishna & Kaveri.\n3. Major plateaus – Malwa, Chotanagpur,\nDeccan.",
+   "id": "10-social-geography-1-023"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Western disturbances cause rainfall in.",
+   "options": [
+    "Tamil Nadu",
+    "Kerala",
+    "Punjab",
+    "Madhya Pradesh"
+   ],
+   "id": "10-social-geography-2-001"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "___ helps in quick ripening of mangoes along the coast of Kerala and Karnataka.",
+   "options": [
+    "Loo",
+    "Norwester",
+    "Mango showers",
+    "Jet stream"
+   ],
+   "id": "10-social-geography-2-002"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "___ is a line joining the places of equal rainfall.",
+   "options": [
+    "Isohyets",
+    "Isobar",
+    "Isotherm",
+    "Latitudes"
+   ],
+   "id": "10-social-geography-2-003"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Climate of India is labelled as ___.",
+   "options": [
+    "Tropical humid",
+    "Equatorial Climate",
+    "Tropical Monsoon Climate",
+    "Temperate Climate"
+   ],
+   "id": "10-social-geography-2-004"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "The monsoon forests are otherwise called as.",
+   "options": [
+    "Tropical evergreen forest",
+    "Deciduous forest",
+    "Mangrove forest",
+    "Mountain forest"
+   ],
+   "id": "10-social-geography-2-005"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Sesahachalam hills, a Biosphere reserve is situated in ___.",
+   "options": [
+    "Tamil Nadu",
+    "Andhra Pradesh",
+    "Madhya Pradesh",
+    "Karnataka"
+   ],
+   "id": "10-social-geography-2-006"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "match",
+   "q": "1. Sundarbans — Desert and semi desert\nvegetation\n2. Biodiversity\nhotspot — October - December\n3. North east\nmonsoon — Littoral forest\n4. Tropical thorn\nforests — West Bengal\n5. Coastal forests — The Himalayas",
+   "id": "10-social-geography-2-007"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Assertion(A): The Himalayas acts as a climatic barrier. Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indian Sub-continent warm.(Give option for this questions)",
+   "options": [
+    "Both (A) and (R) are true: R explains A",
+    "Both (A) and (R) are true: R does not explain A",
+    "(A) is true (R) is false",
+    "(A) is false (R) is true"
+   ],
+   "id": "10-social-geography-2-008"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Tidal forests are found in and around____.",
+   "options": [
+    "Desert",
+    "The Deltas of Ganga and Brahmaputra",
+    "The Delta of Godavari",
+    "The Delta of Mahanadhi"
+   ],
+   "id": "10-social-geography-2-009"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Climate of India is affected by____.",
+   "options": [
+    "Latitudinal extent",
+    "Altitude",
+    "Distance from the sea",
+    "Soil"
+   ],
+   "id": "10-social-geography-2-010"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "List the factors affecting climate of India.",
+   "id": "10-social-geography-2-011"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "What is meant by ‘normal lapse rate’?",
+   "id": "10-social-geography-2-012"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "What are ‘jet streams’?",
+   "id": "10-social-geography-2-013"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "Write a short note on ‘Monsoon wind’.",
+   "id": "10-social-geography-2-014"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "Name the four distinct seasons of India.",
+   "id": "10-social-geography-2-015"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "What is ‘burst of monsoon’?",
+   "id": "10-social-geography-2-016"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "Name the areas which receive heavy rainfall.",
+   "id": "10-social-geography-2-017"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "State the places of mangrove forests in India.",
+   "id": "10-social-geography-2-018"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "short",
+   "q": "Write any five biosphere reserves in India.",
+   "id": "10-social-geography-2-019"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "distinguish",
+   "q": "Weather and Climate",
+   "id": "10-social-geography-2-020"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "distinguish",
+   "q": "Tropical Evergreen Forest and Deciduous Forest.",
+   "id": "10-social-geography-2-021"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "distinguish",
+   "q": "Northeast Monsoon and Southwest Monsoon.",
+   "id": "10-social-geography-2-022"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "reason",
+   "q": "India has a tropical monsoon climate.",
+   "id": "10-social-geography-2-023"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "reason",
+   "q": "Mountains are cooler than the plains.",
+   "id": "10-social-geography-2-024"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "long",
+   "q": "Write about Southwest Monsoon.",
+   "id": "10-social-geography-2-025"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "long",
+   "q": "Describe the forests of India.",
+   "id": "10-social-geography-2-026"
+  },
+  {
+   "section": "geography",
+   "unit": 2,
+   "type": "map",
+   "q": "1. Direction of Southwest Monsoon wind.\n2. Direction of Northeast Monsoon wind.\n3. Areas of heavy rainfall.\n4. Mountain forests.\n5. Panna biosphere reserve\n6. Agasthiyamalai biosphere reserve",
+   "id": "10-social-geography-2-027"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The soil which is rich in iron oxides is.",
+   "options": [
+    "Alluvial",
+    "Black",
+    "Red",
+    "Alkaline"
+   ],
+   "id": "10-social-geography-3-001"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Which of the following organization has divided the Indian soils into 8 major groups?",
+   "options": [
+    "Indian Council of Agricultural Research",
+    "Indian Meteorological Department",
+    "Soil Survey of India",
+    "Indian Institute of Soil Science"
+   ],
+   "id": "10-social-geography-3-002"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The soils formed by the rivers are:",
+   "options": [
+    "Red soils",
+    "Black soils",
+    "Desert soils",
+    "Alluvial soils"
+   ],
+   "id": "10-social-geography-3-003"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "___ is the highest gravity dam in India.",
+   "options": [
+    "Hirakud Dam",
+    "Bhakra Nangal Dam",
+    "Mettur Dam",
+    "Nagarjuna Sagar Dam"
+   ],
+   "id": "10-social-geography-3-004"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "____ is a cash crop.",
+   "options": [
+    "Cotton",
+    "Wheat",
+    "Rice",
+    "Maize"
+   ],
+   "id": "10-social-geography-3-005"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Black soils are also called as:",
+   "options": [
+    "Arid soils",
+    "Saline soils",
+    "Regur soils",
+    "Mountain soils"
+   ],
+   "id": "10-social-geography-3-006"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The longest dam in the world is.",
+   "options": [
+    "Mettur Dam",
+    "Kosi Dam",
+    "Hirakud Dam",
+    "Bhakra-Nangal Dam"
+   ],
+   "id": "10-social-geography-3-007"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Which crop is called as “Golden Fibre” in India?",
+   "options": [
+    "Cotton",
+    "Wheat",
+    "Jute",
+    "Tobacco"
+   ],
+   "id": "10-social-geography-3-008"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Assertion (A): Horticulture involves cultivation of fruits, vegetables, and flowers. Reason (R): India ranks first in the world in the production of mango, banana, and citrus fruits.",
+   "options": [
+    "Both (A) and (R) are true and (R) explains (A)",
+    "Both (A) and (R)are true: (R) does not explain (A)",
+    "(A) is correct (R) is false",
+    "(A) is false (R) is true"
+   ],
+   "id": "10-social-geography-3-009"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Assertion (A): Alluvial soil is formed by the deposition of eroded and decayed materials brought by the rivers. Reason (R): Paddy and wheat are grown well in the soil.",
+   "options": [
+    "Both (A) and (R) are true and (R) explains (A)",
+    "Both (A) and (R)are true and (R) does not explain (A)",
+    "(A) is correct (R) is false",
+    "(A) is false (R) is true"
+   ],
+   "id": "10-social-geography-3-010"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Pick the odd one out",
+   "options": [
+    "Wheat",
+    "Rice",
+    "Millets",
+    "Coffee"
+   ],
+   "id": "10-social-geography-3-011"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Pick the odd one out",
+   "options": [
+    "Khadar",
+    "Bhangar",
+    "Alluvial soil",
+    "Black soil"
+   ],
+   "id": "10-social-geography-3-012"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Pick the odd one out",
+   "options": [
+    "Inundational canals",
+    "Perennial canals",
+    "Tanks",
+    "Canals"
+   ],
+   "id": "10-social-geography-3-013"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "match",
+   "q": "1. Sugar bowl\nof India - Mahanadi\n2. Coffee - Golden revolution\n3. Tehri - Karnataka\n4. Hirakud - Uttar Pradesh and Bihar\n5. Horticulture - Highest dam in the India",
+   "id": "10-social-geography-3-014"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Define soil.",
+   "id": "10-social-geography-3-015"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Name the types of soil found in India.",
+   "id": "10-social-geography-3-016"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "State any two characteristics of black cotton soil.",
+   "id": "10-social-geography-3-017"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Define Agriculture.",
+   "id": "10-social-geography-3-018"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "State the types of agriculture practices in India.",
+   "id": "10-social-geography-3-019"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Name the seasons of agriculture in India?",
+   "id": "10-social-geography-3-020"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Mention the plantation crops of India.",
+   "id": "10-social-geography-3-021"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Write a brief note on the categories of fisheries in India?",
+   "id": "10-social-geography-3-022"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "reason",
+   "q": "Agriculture is the backbone of India.",
+   "id": "10-social-geography-3-023"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "reason",
+   "q": "Rain water harvesting is necessary.",
+   "id": "10-social-geography-3-024"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "distinguish",
+   "q": "Rabi and Kharif crop seasons.",
+   "id": "10-social-geography-3-025"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "distinguish",
+   "q": "Inundational canal and perennial canal.",
+   "id": "10-social-geography-3-026"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "distinguish",
+   "q": "Marine fishing and Inland fishing.",
+   "id": "10-social-geography-3-027"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "distinguish",
+   "q": "Alluvial soils and Black soils.",
+   "id": "10-social-geography-3-028"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "long",
+   "q": "State any five types of soil in India and explain the characteristics and distribution of soil.",
+   "id": "10-social-geography-3-029"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "long",
+   "q": "What is multipurpose projects and write about any two multipurpose projects of India.",
+   "id": "10-social-geography-3-030"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "long",
+   "q": "Bring out the characteristics of Intensive and mixed farming.",
+   "id": "10-social-geography-3-031"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "long",
+   "q": "Examine the geographical conditions favourable for the cultivation of rice and wheat.",
+   "id": "10-social-geography-3-032"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Can you imagine a world without agriculture?",
+   "id": "10-social-geography-3-033"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "short",
+   "q": "Can you give solutions for the prevailing water disputes in South India?",
+   "id": "10-social-geography-3-034"
+  },
+  {
+   "section": "geography",
+   "unit": 3,
+   "type": "map",
+   "q": "1. Demarcate the major tracts of alluvial\nsoils.\n2. Delineate the main regions of black soil.\n3. Locate the Hirakud Dam, Mettur Dam\nand Damodar Dam.\n4. Shade the regions of jute cultivation..\n5. Mark any three tea and coffee growing\nareas.\n6. Demarcate the regions of desert soil.\n7. Locate the fishing hubs: Tuticorin,\nChennai, Cochin, Mumbai,\nMachilipatnam\n8. Demarcate: Cauveri delta, Godavari delta",
+   "id": "10-social-geography-3-035"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Manganese is used in___.",
+   "options": [
+    "Paper industry",
+    "Steel Making",
+    "Copper smelting",
+    "Petroleum Refining"
+   ],
+   "id": "10-social-geography-4-001"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The Anthracite coal has _____.",
+   "options": [
+    "80 to 90% Carbon",
+    "Above 70% Carbon",
+    "60 to 70% Carbon",
+    "Below 50% Carbon"
+   ],
+   "id": "10-social-geography-4-002"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The most important constituents of petroleum are hydrogen and",
+   "options": [
+    "Oxygen",
+    "Water",
+    "Carbon",
+    "Nitrogen"
+   ],
+   "id": "10-social-geography-4-003"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The city which is called as the Manchester of South India is",
+   "options": [
+    "Chennai",
+    "Salem",
+    "Madurai",
+    "Coimbatore"
+   ],
+   "id": "10-social-geography-4-004"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The first Nuclear Power station was commissioned in",
+   "options": [
+    "Gujarat",
+    "Rajasthan",
+    "Maharashtra",
+    "Tamil Nadu"
+   ],
+   "id": "10-social-geography-4-005"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The most abundant source of energy is",
+   "options": [
+    "Biomass",
+    "Sun",
+    "Coal",
+    "Oil"
+   ],
+   "id": "10-social-geography-4-006"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The nucleus for the development of the Chotanagpur plateau region is",
+   "options": [
+    "Transport",
+    "Mineral Deposits",
+    "Large demand",
+    "Power Availability"
+   ],
+   "id": "10-social-geography-4-007"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "match",
+   "q": "1. Bauxite - Cement\n2. Gypsum - Aluminium\n3. Anthracite - Electrical goods\n4. Iron ore - Coal\n5. Mica - Magnetite",
+   "id": "10-social-geography-4-008"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "short",
+   "q": "Define the resource and state its types.",
+   "id": "10-social-geography-4-009"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "short",
+   "q": "What are minerals and state its type?",
+   "id": "10-social-geography-4-010"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "short",
+   "q": "State the uses of Manganese.",
+   "id": "10-social-geography-4-011"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "short",
+   "q": "What is natural gas?",
+   "id": "10-social-geography-4-012"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "short",
+   "q": "Name the different types of coal with their carbon content.",
+   "id": "10-social-geography-4-013"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "short",
+   "q": "Mention the major areas of jute production in India.",
+   "id": "10-social-geography-4-014"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "short",
+   "q": "Name the important oil producing regions of India.",
+   "id": "10-social-geography-4-015"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "distinguish",
+   "q": "Renewable and non-renewable resources.",
+   "id": "10-social-geography-4-016"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "distinguish",
+   "q": "Metallic and non-metallic minerals.",
+   "id": "10-social-geography-4-017"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "distinguish",
+   "q": "Agro-based industry and mineral-based industry.",
+   "id": "10-social-geography-4-018"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "distinguish",
+   "q": "Jute industry and sugar industry.",
+   "id": "10-social-geography-4-019"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "long",
+   "q": "Write about the distribution of cotton textile industries in India.",
+   "id": "10-social-geography-4-020"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "long",
+   "q": "Describe the major challenges of Indian industries.",
+   "id": "10-social-geography-4-021"
+  },
+  {
+   "section": "geography",
+   "unit": 4,
+   "type": "map",
+   "q": "1. Iron ore production centres.\n2. Centres of Petroleum and Natural Gas\nproduction.\n3. Coal mining centres.\n4. Areas of cultivation of cotton.\n5. Iron and Steel industries.",
+   "id": "10-social-geography-4-022"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "mcq",
+   "q": "The scientific study of different aspects of population is called",
+   "options": [
+    "Cartography",
+    "Demography",
+    "Anthropology",
+    "Epigraphy"
+   ],
+   "id": "10-social-geography-5-001"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "mcq",
+   "q": "___ transport provides door to door services.",
+   "options": [
+    "Railways",
+    "Roadways",
+    "Airways",
+    "Waterways."
+   ],
+   "id": "10-social-geography-5-002"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "mcq",
+   "q": "The length of Golden Quadrilateral superhighways in India is",
+   "options": [
+    "5846 km",
+    "5942 km",
+    "5630 km",
+    "5800 km"
+   ],
+   "id": "10-social-geography-5-003"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "mcq",
+   "q": "The National Remote sensing Centre(NRSC) is located at ___.",
+   "options": [
+    "Bengaluru",
+    "Chennai",
+    "Delhi",
+    "Hyderabad"
+   ],
+   "id": "10-social-geography-5-004"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "mcq",
+   "q": "The transport useful in the inaccessible areas is",
+   "options": [
+    "Roadways",
+    "Railways",
+    "Airways",
+    "Waterways"
+   ],
+   "id": "10-social-geography-5-005"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Which of the following is associated with helicopter service?",
+   "options": [
+    "Air India",
+    "Indian Airlines",
+    "Vayudoot",
+    "Pavan Hans"
+   ],
+   "id": "10-social-geography-5-006"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "mcq",
+   "q": "The major import item of India is",
+   "options": [
+    "Cement",
+    "Jewells",
+    "Tea",
+    "Petroleum"
+   ],
+   "id": "10-social-geography-5-007"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "short",
+   "q": "What is migration? State its types.",
+   "id": "10-social-geography-5-008"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "short",
+   "q": "Write any four advantages of railways.",
+   "id": "10-social-geography-5-009"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "short",
+   "q": "Write a note on Pipeline network transport in India",
+   "id": "10-social-geography-5-010"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "short",
+   "q": "State the major Inland waterways of India",
+   "id": "10-social-geography-5-011"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "short",
+   "q": "What is communication? What are its types?",
+   "id": "10-social-geography-5-012"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "short",
+   "q": "Define “International trade”.",
+   "id": "10-social-geography-5-013"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "short",
+   "q": "State the merits of Roadways.",
+   "id": "10-social-geography-5-014"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "distinguish",
+   "q": "Personal communication and mass communication.",
+   "id": "10-social-geography-5-015"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "distinguish",
+   "q": "Print Media and Electronic Media.",
+   "id": "10-social-geography-5-016"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "distinguish",
+   "q": "Roadways and Railways.",
+   "id": "10-social-geography-5-017"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "distinguish",
+   "q": "Waterways and Airways.",
+   "id": "10-social-geography-5-018"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "distinguish",
+   "q": "Internal trade and International trade.",
+   "id": "10-social-geography-5-019"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "long",
+   "q": "What is urbanization? Explain its problem.",
+   "id": "10-social-geography-5-020"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "long",
+   "q": "Explain the importances of satellite communication in India.",
+   "id": "10-social-geography-5-021"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "long",
+   "q": "Classify and explain the roadways in India.",
+   "id": "10-social-geography-5-022"
+  },
+  {
+   "section": "geography",
+   "unit": 5,
+   "type": "map",
+   "q": "1. National Highway NH-44\n2. Major seaports in India.\n3. Major International Airports in India.\n4. Densely populated state of India.\n5. State of highest literacy in India\n6. Railways zones of India.",
+   "id": "10-social-geography-5-023"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "The latitudinal extent of Tamil Nadu is",
+   "options": [
+    "8°4′N to 13°35′N",
+    "8°5′S to 13°35′S",
+    "8°0′N to 13°5′N",
+    "8°0′S to 13°05′S"
+   ],
+   "id": "10-social-geography-6-001"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "The longitudinal extent of Tamil Nadu is",
+   "options": [
+    "76°18′ E to 80°20′E",
+    "76°18′ W to 80°20′W",
+    "86°18′ E to 10°20′E",
+    "86°18′ W to 10°20′W"
+   ],
+   "id": "10-social-geography-6-002"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "The highest peak in Tamil Nadu is",
+   "options": [
+    "Anaimudi",
+    "Doddabetta",
+    "Mahendragiri",
+    "Servarayan"
+   ],
+   "id": "10-social-geography-6-003"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Which of the following passes is not located in the Western Ghats of Tamil Nadu?",
+   "options": [
+    "Palghat",
+    "Shencottah",
+    "Bhorghat",
+    "Achankoil"
+   ],
+   "id": "10-social-geography-6-004"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Which one of the following rivers flows into the Arabian Sea?",
+   "options": [
+    "Periyar",
+    "Cauvery",
+    "Chittar",
+    "Bhavani"
+   ],
+   "id": "10-social-geography-6-005"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "The district with largest mangrove forest cover in Tamil Nadu is",
+   "options": [
+    "Ramanathapuram",
+    "Nagapattinam",
+    "Cuddalore",
+    "Theni"
+   ],
+   "id": "10-social-geography-6-006"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Retreating monsoon wind picks up moisture from",
+   "options": [
+    "Arabian sea",
+    "Bay of Bengal",
+    "Indian Ocean",
+    "Timor sea"
+   ],
+   "id": "10-social-geography-6-007"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "The district which has the largest forest cover in Tamil Nadu is",
+   "options": [
+    "Dharmapuri",
+    "Vellore",
+    "Dindigul",
+    "Erode"
+   ],
+   "id": "10-social-geography-6-008"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "fill",
+   "q": "The plateau which lies between The Nilgiris and Dharmapuri districts is _______.",
+   "id": "10-social-geography-6-009"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "fill",
+   "q": "_______ is the highest peak in the southern most part of the Eastern Ghats.",
+   "id": "10-social-geography-6-010"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "fill",
+   "q": "The riverine Island of Srirangam is located between _______ and _______ branches of Cauvery.",
+   "id": "10-social-geography-6-011"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "fill",
+   "q": "_______is the Tamil Nadu state animal.",
+   "id": "10-social-geography-6-012"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "match",
+   "q": "1. Winter season - Pre-monsoon\n2. Summer season - June to September\n3. Southwest monsoon - March to May\n4. Northeast monsoon - January and\nFebruary\n5. Mango Shower - October to\nDecember",
+   "id": "10-social-geography-6-013"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "mcq",
+   "q": "Assertion (A): Tamil Nadu does not receive much rainfall from southwest monsoon. Reason (R): It is situated in the rain shadow area of the Western Ghats.",
+   "options": [
+    "Both (A) and (R) are true and (R) explains (A).",
+    "Both (A) and (R) are true but, (R) does not explain (A).",
+    "(A) is true but, (R) is false.",
+    "(R) is true but, (A) is false."
+   ],
+   "id": "10-social-geography-6-014"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "short",
+   "q": "State the boundaries of Tamil Nadu.",
+   "id": "10-social-geography-6-015"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "short",
+   "q": "What is ‘Teri’?",
+   "id": "10-social-geography-6-016"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "short",
+   "q": "How is coastal plain formed?",
+   "id": "10-social-geography-6-017"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "short",
+   "q": "Name the major islands of Tamil Nadu.",
+   "id": "10-social-geography-6-018"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "short",
+   "q": "Name the tributaries of river Thamirabarani.",
+   "id": "10-social-geography-6-019"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "short",
+   "q": "Define: Disaster Risk Reduction.",
+   "id": "10-social-geography-6-020"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "short",
+   "q": "During cyclone, how does the Meterological department warn the fishermen?",
+   "id": "10-social-geography-6-021"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "distinguish",
+   "q": "Thamiraparani and Cauvery",
+   "id": "10-social-geography-6-022"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "reason",
+   "q": "Eastern Ghats are not a continuous range.",
+   "id": "10-social-geography-6-023"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "reason",
+   "q": "Tamil Nadu receives low rainfall during southwest monsoon.",
+   "id": "10-social-geography-6-024"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "long",
+   "q": "Describe the nature of the plateau region of Tamil Nadu.",
+   "id": "10-social-geography-6-025"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "long",
+   "q": "Write an account on river Cauvery.",
+   "id": "10-social-geography-6-026"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "long",
+   "q": "Bring out the types and distribution of soils in Tamil Nadu.",
+   "id": "10-social-geography-6-027"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "long",
+   "q": "What are the Risk reduction measures taken before and after cyclone.",
+   "id": "10-social-geography-6-028"
+  },
+  {
+   "section": "geography",
+   "unit": 6,
+   "type": "map",
+   "q": "1. Mark important rivers, distribution of soil\nand forest types on different Tamil Nadu\nmaps.",
+   "id": "10-social-geography-6-029"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "mcq",
+   "q": "The delta which is known as Granary of South India is",
+   "options": [
+    "Cauvery delta",
+    "Mahanadi delta",
+    "Godavari delta",
+    "Krishna delta"
+   ],
+   "id": "10-social-geography-7-001"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Second staple food of the people of Tamil Nadu is",
+   "options": [
+    "Pulses",
+    "Millets",
+    "Oilseeds",
+    "Rice"
+   ],
+   "id": "10-social-geography-7-002"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "mcq",
+   "q": "A major hydro-electric power project of Tamil Nadu is",
+   "options": [
+    "Mettur",
+    "Papansam",
+    "Sathanur",
+    "Thungabahdra"
+   ],
+   "id": "10-social-geography-7-003"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Number of major and minor ports in Tamil Nadu are",
+   "options": [
+    "3 and 15",
+    "4 and 16",
+    "3 and 16",
+    "4 and 15"
+   ],
+   "id": "10-social-geography-7-004"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "fill",
+   "q": "Agriculture of Tamil Nadu constitutes % of its economy ______.",
+   "id": "10-social-geography-7-005"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "fill",
+   "q": "Sathanur Dam is constructed across the river _________.",
+   "id": "10-social-geography-7-006"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "fill",
+   "q": "________ is the third largest airport in India after Mumbai and Delhi.",
+   "id": "10-social-geography-7-007"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "fill",
+   "q": "The difference between the value of exports and imports is called ________.",
+   "id": "10-social-geography-7-008"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "match",
+   "q": "1. Bauxite – Salem\n2. Gypsum – Servaroy hills\n3. Iron ore – Coimbatore\n4. Limestone – Tiruchirapalli",
+   "id": "10-social-geography-7-009"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Assertion (A): Coimbatore, Tiruppur, Erode, Karur and Salem region is called as The Textile Valley of Tamil Nadu. Reason (R): They contribute a major share to the states economy through textiles.",
+   "options": [
+    "Both (A) and (R) are true and (R) explains (A)",
+    "Both (A) and (R) are true but, (R) does not explain (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "id": "10-social-geography-7-010"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "mcq",
+   "q": "Assertion (A): The Nilgiris is the least populated district of Tamil Nadu Reason (R): It is located in the western most part of Tamil Nadu.",
+   "options": [
+    "Both (A) and (R) are true and (R) explains (A)",
+    "Both (A) and (R) are true but, (R) does not explain (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "id": "10-social-geography-7-011"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "short",
+   "q": "What are the cropping seasons of Tamil Nadu",
+   "id": "10-social-geography-7-012"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "short",
+   "q": "Why is Coimbatore called the Manchester of South India?",
+   "id": "10-social-geography-7-013"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "short",
+   "q": "Name the important multipurpose projects of Tamil Nadu.",
+   "id": "10-social-geography-7-014"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "short",
+   "q": "What is MRTS?",
+   "id": "10-social-geography-7-015"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "short",
+   "q": "List out the air ports and sea ports of Tamil Nadu.",
+   "id": "10-social-geography-7-016"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "distinguish",
+   "q": "Marine fishing and Inland fishing",
+   "id": "10-social-geography-7-017"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "distinguish",
+   "q": "Food crops and Non-food crops",
+   "id": "10-social-geography-7-018"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "distinguish",
+   "q": "Surface water and Ground water",
+   "id": "10-social-geography-7-019"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "reason",
+   "q": "Farmers switch over from inorganic to organic farming.",
+   "id": "10-social-geography-7-020"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "reason",
+   "q": "Cities are densely populated than the villages.",
+   "id": "10-social-geography-7-021"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "long",
+   "q": "Write about the plantation farming of Tamil Nadu.",
+   "id": "10-social-geography-7-022"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "long",
+   "q": "Give an account on water resources of Tamil Nadu.",
+   "id": "10-social-geography-7-023"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "long",
+   "q": "Bring out the mineral distribution in Tamil Nadu.",
+   "id": "10-social-geography-7-024"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "long",
+   "q": "Explain the different modes of transport available in Tamil Nadu.",
+   "id": "10-social-geography-7-025"
+  },
+  {
+   "section": "geography",
+   "unit": 7,
+   "type": "map",
+   "q": "1. Mark the areas of major crops, minerals,\ndams, air ports and sea ports in the outline\nmap of Tamil Nadu.",
+   "id": "10-social-geography-7-026"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Which of the following sequences in right regarding the Preamble?",
+   "options": [
+    "Republic, democratic, secular, socialist, sovereign",
+    "Sovereign, socialist, secular, republic, democratic",
+    "Sovereign, republic, secular, socialist, democratic",
+    "Sovereign, socialist, secular"
+   ],
+   "id": "10-social-civics-1-001"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "How many times has the Preamble to the Constitution of India amended?",
+   "options": [
+    "Once",
+    "Twice",
+    "Thrice",
+    "Never"
+   ],
+   "id": "10-social-civics-1-002"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "A foreigner can acquire Indian citizenship through",
+   "options": [
+    "Descent",
+    "Registration",
+    "Naturalisation",
+    "All of the above"
+   ],
+   "id": "10-social-civics-1-003"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Find the odd one out.",
+   "options": [
+    "Right to Equality",
+    "Right against Exploitation",
+    "Right to Property",
+    "Cultural and Educational Rights"
+   ],
+   "id": "10-social-civics-1-004"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "One of the following is not an instance of an exercise of a fundamental right?",
+   "options": [
+    "Workers from Karnataka go to Kerala to work on the farms",
+    "Christian missions set up a chain of missionary schools",
+    "Men and Women government employees got the same salary.",
+    "Parents property is inherited by their"
+   ],
+   "id": "10-social-civics-1-005"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Which one of the following rights was described by Dr. B.R. Ambedkar as the heart and soul of the Constitution?",
+   "options": [
+    "Right to freedom of religion",
+    "Right to equality",
+    "Right to Constitutional remedies",
+    "Right to property"
+   ],
+   "id": "10-social-civics-1-006"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "How can the Fundamental Rights be suspended?",
+   "options": [
+    "If the Supreme Court so desires",
+    "If the Prime Minister orders to this effect",
+    "If the President orders it during the national emergency",
+    "All of the above"
+   ],
+   "id": "10-social-civics-1-007"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "We borrowed the Fundamental Duties from the",
+   "options": [
+    "American Constitution",
+    "Canadian Constitution",
+    "Russian Constitution",
+    "Irish Constitution"
+   ],
+   "id": "10-social-civics-1-008"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Under which Article financial emergency can be proclaimed?",
+   "options": [
+    "Article 352",
+    "Article 356",
+    "Article 360",
+    "Article 368"
+   ],
+   "id": "10-social-civics-1-009"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Which of the following committees/ commissions made recommendations about the Centre-State Relations? 1. Sarkaria Commission 2. Rajamannar Committee 3. M.N.Venkatachaliah Commission Select the correct answer from the codes given below",
+   "options": [
+    "1, 2 & 3",
+    "1 & 2",
+    "1 & 3",
+    "2 & 3"
+   ],
+   "id": "10-social-civics-1-010"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "fill",
+   "q": "The concept of constitution first originated in _____.",
+   "id": "10-social-civics-1-011"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "fill",
+   "q": "_____was elected as the temporary President of the Constituent Assembly.",
+   "id": "10-social-civics-1-012"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "fill",
+   "q": "The Constitution of India was adopted on_____.",
+   "id": "10-social-civics-1-013"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "fill",
+   "q": "_____ writs are mentioned in Article 32.",
+   "id": "10-social-civics-1-014"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "fill",
+   "q": "Fundamental duties have been given to the citizen of India under Article_____.",
+   "id": "10-social-civics-1-015"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "match",
+   "q": "1. Citizenship Act - Jawaharlal Nehru\n2. The Preamble - 42nd Amendment\n3. The mini Constitution - 1955\n4. Classical language - 1962\n5. National Emergency - Tamil",
+   "id": "10-social-civics-1-016"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "short",
+   "q": "What is a Constitution?",
+   "id": "10-social-civics-1-017"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "short",
+   "q": "What is meant by citizenship?",
+   "id": "10-social-civics-1-018"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "short",
+   "q": "List out the fundamental rights guaranteed by Indian Constitution.",
+   "id": "10-social-civics-1-019"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "short",
+   "q": "What is a Writ?",
+   "id": "10-social-civics-1-020"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "short",
+   "q": "List out the three heads of the relations between the Centre and the States.",
+   "id": "10-social-civics-1-021"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "short",
+   "q": "What are the classical languages in India?",
+   "id": "10-social-civics-1-022"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "short",
+   "q": "What is national emergency?",
+   "id": "10-social-civics-1-023"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "long",
+   "q": "Explain the salient features of the Constitution of India.",
+   "id": "10-social-civics-1-024"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "long",
+   "q": "Point out the Fundamental Rights.",
+   "id": "10-social-civics-1-025"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "long",
+   "q": "Write briefly on the Right to Constitutional Remedies.",
+   "id": "10-social-civics-1-026"
+  },
+  {
+   "section": "civics",
+   "unit": 1,
+   "type": "long",
+   "q": "Mention the differences between Fundamental Rights and Directive Principles of State Policy.",
+   "id": "10-social-civics-1-027"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "The Constitutional Head of the Union is",
+   "options": [
+    "The President",
+    "The Chief Justice",
+    "The Prime Minister",
+    "Council of Ministers"
+   ],
+   "id": "10-social-civics-2-001"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Who among the following decides whether a Bill is a Money Bill or not?",
+   "options": [
+    "The President",
+    "Attorney General",
+    "Parliamentary Affairs Minister",
+    "Speaker of Lok Sabha"
+   ],
+   "id": "10-social-civics-2-002"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "The Council of Ministers is collectively responsible to the:",
+   "options": [
+    "The President",
+    "Lok Sabha",
+    "The Prime Minister",
+    "Rajya Sabha"
+   ],
+   "id": "10-social-civics-2-003"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "What is minimum age laid down for a candidate to seek election to the Lok Sabha?",
+   "options": [
+    "18 years",
+    "21 years",
+    "25 years",
+    "30 years"
+   ],
+   "id": "10-social-civics-2-004"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "The authority to alter the boundaries of state in India rest with?",
+   "options": [
+    "The President",
+    "The Prime Minister",
+    "State Government",
+    "Parliament"
+   ],
+   "id": "10-social-civics-2-005"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Under which Article the President is vested with the power to proclaim Financial Emergency",
+   "options": [
+    "Article 352",
+    "Article 360",
+    "Article 356",
+    "Article 365"
+   ],
+   "id": "10-social-civics-2-006"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "The Chief Justice and other Judges of the Supreme court are appointed by:",
+   "options": [
+    "The President",
+    "The Attorney General",
+    "The Governor",
+    "The Prime Minister"
+   ],
+   "id": "10-social-civics-2-007"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "fill",
+   "q": "______ Bill cannot be introduced in the Parliament without President’s approval.",
+   "id": "10-social-civics-2-008"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "fill",
+   "q": "_______ is the leader of the nation and chief spokesperson of the country.",
+   "id": "10-social-civics-2-009"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "fill",
+   "q": "___________ is the Ex-officio Chairperson of the Rajya Sabha.",
+   "id": "10-social-civics-2-010"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "fill",
+   "q": "_____ has the right to speak and to take part in the proceedings of both Houses of the Parliament.",
+   "id": "10-social-civics-2-011"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "fill",
+   "q": "The Chief Justice and other judges of the Supreme Court hold the office up to the age of _____years.",
+   "id": "10-social-civics-2-012"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "fill",
+   "q": "_________ is the Guardian of the Constitution.",
+   "id": "10-social-civics-2-013"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "i) Total members of the Rajya Sabha is 250. ii) The 12 nominated members shall be chosen by the President from amongst persons experience in the field of literature, science, art and social service. iii) The Members of the Rajya Sabha should not be less than 30 years of age. iv) The members of the Rajya Sabha are directly elected by the peoples.",
+   "options": [
+    "ii & iv are correct",
+    "iii & iv are correct",
+    "i & iv are correct",
+    "i, ii & iii are correct"
+   ],
+   "id": "10-social-civics-2-014"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "i) The Chief Justice and other judges of the Supreme Court hold the office up to the age of 62 years. ii) Judiciary is the third organ of the government. iii) The cases involving fundamental rights come under the Appellate jurisdiction of the Supreme Court. iv) The law declared by Supreme Court is binding on all courts within the territory of India.",
+   "options": [
+    "ii & iv are correct",
+    "iii & iv are correct",
+    "i & iv are correct",
+    "i & ii are correct"
+   ],
+   "id": "10-social-civics-2-015"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "match",
+   "q": "1. Article 53 - State Emergency\n2. Article 63 - Internal Emergency\n3. Article 356 - Executive power of\nPresident\n4. Article 76 - Office of the Vice-President\n5. Article 352 - Office of the Attorney\nGeneral",
+   "id": "10-social-civics-2-016"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "short",
+   "q": "How is President of India elected?",
+   "id": "10-social-civics-2-017"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "short",
+   "q": "What are the different categories of Ministers at the Union level?",
+   "id": "10-social-civics-2-018"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "short",
+   "q": "Write short note: Money Bill.",
+   "id": "10-social-civics-2-019"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "short",
+   "q": "List out any two special powers of the Attorney General of India?",
+   "id": "10-social-civics-2-020"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "short",
+   "q": "What is the qualification of Judges of the Supreme Court?",
+   "id": "10-social-civics-2-021"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "long",
+   "q": "Describe the Executive and Judicial powers of the President of India.",
+   "id": "10-social-civics-2-022"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "long",
+   "q": "What are the Duties and functions of Prime Minister of India?",
+   "id": "10-social-civics-2-023"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "long",
+   "q": "Critically examine the Powers and Functions of the Parliament. President.",
+   "id": "10-social-civics-2-024"
+  },
+  {
+   "section": "civics",
+   "unit": 2,
+   "type": "long",
+   "q": "Explain any three Jurisdiction of the Supreme Court of India?",
+   "id": "10-social-civics-2-025"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The Governor of the State is appointed by the",
+   "options": [
+    "Prime Minister",
+    "Chief Minister",
+    "President",
+    "Chief Justice"
+   ],
+   "id": "10-social-civics-3-001"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The Speaker of a State is a",
+   "options": [
+    "Head of State",
+    "Head of government",
+    "President’s agent",
+    "None of these"
+   ],
+   "id": "10-social-civics-3-002"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Which among the following is not one of the powers of the Governor?",
+   "options": [
+    "Legislative",
+    "Executive",
+    "Judicial",
+    "Diplomatic"
+   ],
+   "id": "10-social-civics-3-003"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Who can nominate one representative of the Anglo-Indian Community to the State Legislative Assembly?",
+   "options": [
+    "The President",
+    "The Governor",
+    "The Chief Minister",
+    "The Speaker of State legislature"
+   ],
+   "id": "10-social-civics-3-004"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The Governor does not appoint",
+   "options": [
+    "Chief Minister",
+    "Chairman of the State Public Service Commission",
+    "Advocate General of the State",
+    "Judges of the High Court"
+   ],
+   "id": "10-social-civics-3-005"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The State Council of Ministers is headed by",
+   "options": [
+    "The Chief Minster",
+    "The Governor",
+    "The Speaker",
+    "The Prime Minister"
+   ],
+   "id": "10-social-civics-3-006"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The minimum age for the membership of the Legislative Council is",
+   "options": [
+    "25 years",
+    "21 years",
+    "30 years",
+    "35 years"
+   ],
+   "id": "10-social-civics-3-007"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Which one of the following States does not possess a bicameral legislature?",
+   "options": [
+    "Andhra Pradesh",
+    "Telangana",
+    "Tamil Nadu",
+    "Uttar Pradesh"
+   ],
+   "id": "10-social-civics-3-008"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "The High Courts in India were first started at",
+   "options": [
+    "Calcutta, Bombay, Madras",
+    "Delhi and Calcutta",
+    "Delhi, Calcutta, Madras",
+    "Calcutta, Madras, Delhi"
+   ],
+   "id": "10-social-civics-3-009"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Which of the following States have a common High Court?",
+   "options": [
+    "Tamil Nadu and Andhra Pradesh",
+    "Kerala and Telangana",
+    "Punjab and Haryana",
+    "Maharashtra and Gujarat"
+   ],
+   "id": "10-social-civics-3-010"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "fill",
+   "q": "Governor of the state government surrenders his resignation to ____.",
+   "id": "10-social-civics-3-011"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "fill",
+   "q": "Members of the Legislative assembly (MLAs) elected by the ____.",
+   "id": "10-social-civics-3-012"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "fill",
+   "q": "____ acts as the chancellor of universities in the state.",
+   "id": "10-social-civics-3-013"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "fill",
+   "q": "The Chairman and Members of the State Public Service Commission can be removed only by the ____.",
+   "id": "10-social-civics-3-014"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "match",
+   "q": "1. Governor - Head of the\nGovernment\n2. Chief Minister - Head of the State\n3. Council of Ministers - Tribunals\n4. MLC - Responsible for\nthe Assembly\n5. Armed forces - cannot vote for\ngrants",
+   "id": "10-social-civics-3-015"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "short",
+   "q": "What is the importance of the Governor of a state?",
+   "id": "10-social-civics-3-016"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "short",
+   "q": "What are the qualifications for the appointment of Governor?",
+   "id": "10-social-civics-3-017"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "short",
+   "q": "What is the original jurisdiction of the High Court?",
+   "id": "10-social-civics-3-018"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "short",
+   "q": "What do you understand by the “Appellate Jurisdiction” of the High Court?",
+   "id": "10-social-civics-3-019"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "long",
+   "q": "Describe the legislative powers of the Governor.",
+   "id": "10-social-civics-3-020"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "long",
+   "q": "What are the powers and functions of the Chief Minister?",
+   "id": "10-social-civics-3-021"
+  },
+  {
+   "section": "civics",
+   "unit": 3,
+   "type": "long",
+   "q": "Critically examine the functions and powers of the Council of Ministers",
+   "id": "10-social-civics-3-022"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The Panchaseel treaty has been signed between",
+   "options": [
+    "India and Nepal",
+    "India and Pakistan",
+    "India and China",
+    "India and Sri Lanka"
+   ],
+   "id": "10-social-civics-4-001"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Which article of Indian constitution directs to adopt foreign policy?",
+   "options": [
+    "Article 50",
+    "Article 51",
+    "Article 52",
+    "Article 53"
+   ],
+   "id": "10-social-civics-4-002"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The Agreement signed by India and China in 1954 related to",
+   "options": [
+    "Trade and Commerce",
+    "Restoration of normal relations",
+    "Cultural exchange programmes",
+    "The Five Principles of Co existence"
+   ],
+   "id": "10-social-civics-4-003"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Which is not related to our foreign policy",
+   "options": [
+    "World co operation",
+    "World peace",
+    "Racial equality",
+    "Colonialism"
+   ],
+   "id": "10-social-civics-4-004"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Which of the following country is not the founder member of NAM?",
+   "options": [
+    "Yugoslavia",
+    "Indonesia",
+    "Egypt",
+    "Pakistan"
+   ],
+   "id": "10-social-civics-4-005"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Non-Alliance means",
+   "options": [
+    "being neutral",
+    "freedom to decide on issues independently",
+    "demilitarisation",
+    "none of the above"
+   ],
+   "id": "10-social-civics-4-006"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Non – military issues are",
+   "options": [
+    "Energy security",
+    "Water security",
+    "Pandemics",
+    "All the above."
+   ],
+   "id": "10-social-civics-4-007"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "fill",
+   "q": "India conducted its first nuclear test at ______.",
+   "id": "10-social-civics-4-008"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "fill",
+   "q": "_________is the instrument for implementing foreign policy of a state.",
+   "id": "10-social-civics-4-009"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "fill",
+   "q": "__________ was India’s policy in the face of the bipolar order of the cold war.",
+   "id": "10-social-civics-4-010"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Arrange the following in the correct chronological order and choose the correct answer from the code given below. (i) Panchsheel (ii) China's Nuclear test (iii) Indo-Soviet treaty (iv) First Nuclear test of India",
+   "options": [
+    "(i), (iii), (iv), (ii)",
+    "(i), (ii), (iii), (iv)",
+    "(i), (ii), (iv), (iii)",
+    "(i), (iii), (ii), (iv)"
+   ],
+   "id": "10-social-civics-4-011"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Which of the following is not about NAM? (i) The term Non-alignment was coined by V.K. Krishna Menon (ii) It aimed to maintain national independence in foreign affairs by joining any military alliance (iii) At present it has 120 member countries. (iv) It has transformed to an economical movement",
+   "options": [
+    "(i) and (ii)",
+    "(iii) and (iv)",
+    "(ii) only",
+    "(iv) only"
+   ],
+   "id": "10-social-civics-4-012"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Assertion(A): India has formal diplomatic relations with most of the nations. Reason(R): India is the World’s most populous country.",
+   "options": [
+    "A is correct and R explains A",
+    "A is correct and R does not explain A",
+    "A is wrong and R is correct",
+    "Both are wrong"
+   ],
+   "id": "10-social-civics-4-013"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Avoidance of military blocs was necessity for India after political freedom. Because India had to redeemed from",
+   "options": [
+    "acute poverty",
+    "illiteracy",
+    "chaotic socio-economic conditions",
+    "all the above"
+   ],
+   "id": "10-social-civics-4-014"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "match",
+   "q": "1. Indian Ocean island - 1955\n2. Land bridge to ASEAN - 1954\n3. Panchsheel - Maldives\n4. Afro Asian Conference - Foreign Policy\n5. World Peace - Myanmar",
+   "id": "10-social-civics-4-015"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "short",
+   "q": "What is foreign policy?",
+   "id": "10-social-civics-4-016"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "short",
+   "q": "List any four guiding principles of Panchsheel?",
+   "id": "10-social-civics-4-017"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "short",
+   "q": "Name the architects of the Non-Aligned movement.",
+   "id": "10-social-civics-4-018"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "short",
+   "q": "Explain India’s nuclear policy.",
+   "id": "10-social-civics-4-019"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "short",
+   "q": "List out the member countries of SAARC.",
+   "id": "10-social-civics-4-020"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "short",
+   "q": "Differentiate: Domestic policy and Foreign policy",
+   "id": "10-social-civics-4-021"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "long",
+   "q": "Write a detailed note on Non-alignment.",
+   "id": "10-social-civics-4-022"
+  },
+  {
+   "section": "civics",
+   "unit": 4,
+   "type": "long",
+   "q": "Discuss the basic determinants of India’s foreign policy?",
+   "id": "10-social-civics-4-023"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "McMahon Line is a border between",
+   "options": [
+    "India and Burma",
+    "India and Nepal",
+    "India and China",
+    "India and Bhutan"
+   ],
+   "id": "10-social-civics-5-001"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "BRICS",
+   "options": [
+    "2 only",
+    "2 and 4",
+    "2, 4 and 1",
+    "1, 2 and 3 a) An international insurance Co. b) An international sports club c) An Organisation of Oil Exporting d) An international company a) Bangladesh b) Myanmar c) Afghanistan d) China"
+   ],
+   "id": "10-social-civics-5-002"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Match the following and choose the correct answer form the codes given below. i) Salma Dam ___ - 1. Bangladesh ii) Farakka accord - 2. Nepal iii) Chukha hydroelectric project ___ - 3. Afghanistan iv) Sharda River project - 4. Bhutan",
+   "options": [
+    "3 1 4 2",
+    "3 1 2 4",
+    "3 4 1 2",
+    "4 3 2 1"
+   ],
+   "id": "10-social-civics-5-003"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "How many countries share its border with India?",
+   "options": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "id": "10-social-civics-5-004"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Which two island countries are India’s neighbours?",
+   "options": [
+    "Sri Lanka and Andaman island",
+    "Maldieves and Lakshadweep island",
+    "Maldieves and Nicobar island",
+    "Sri Lanka and Maldieves"
+   ],
+   "id": "10-social-civics-5-005"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Which Indian state is surrounded by three countries?",
+   "options": [
+    "Arunachal Pradesh",
+    "Meghalaya",
+    "Mizoram",
+    "Assam"
+   ],
+   "id": "10-social-civics-5-006"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "How many Indian states have their boundary with Nepal?",
+   "options": [
+    "Five",
+    "Four",
+    "Three",
+    "Two"
+   ],
+   "id": "10-social-civics-5-007"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Who drew up the borders for independent Pakistan?",
+   "options": [
+    "Lord Mountbatten",
+    "Sir Cyril Radcliffe",
+    "Clement Atlee",
+    "None of the above."
+   ],
+   "id": "10-social-civics-5-008"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "fill",
+   "q": "_________ is a small Himalayan kingdom.",
+   "id": "10-social-civics-5-009"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "fill",
+   "q": "India’s gateway to South East Asia is ______.",
+   "id": "10-social-civics-5-010"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "fill",
+   "q": "A strip of land _________, belongs to India on West Bengal and Bangladesh border.",
+   "id": "10-social-civics-5-011"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "fill",
+   "q": "_________ is known as the Land of thunderbolt.",
+   "id": "10-social-civics-5-012"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "The Kaladan transport project by India and Myanmar consists of which of the following modes of transport? 1. Roads 2. Railways 3. Shipping 4. Inland water transport Select the correct answer using the codes given below",
+   "options": [
+    "1, 2 and 3 only",
+    "1, 3 and 4 only",
+    "2, 3 and 4 only",
+    "1, 2, 3 and 4"
+   ],
+   "id": "10-social-civics-5-013"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Assertion (A): India and France launched International Solar Alliance. Reason (R): It was done to bring together countries between Tropic of Cancer and Tropic of Capricorn for co-operation of solar energy.",
+   "options": [
+    "A is correct and R is the correct explanation of A",
+    "A is correct and R is not the correct explanation of A",
+    "A is wrong and R is correct",
+    "Both are wrong"
+   ],
+   "id": "10-social-civics-5-014"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "match",
+   "q": "1. Brandix - Vienna\n2. COMCASA - Japan\n3. Shinkansen system - Shanghai\n4. BRICS - USA\n5. OPEC - Garment city in\nVishakapatnam",
+   "id": "10-social-civics-5-015"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "short",
+   "q": "Name the neighbouring countries of India.",
+   "id": "10-social-civics-5-016"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "short",
+   "q": "Write a short note on Strategic partnership Agreement (SPA).",
+   "id": "10-social-civics-5-017"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "short",
+   "q": "What do you know about Kaladan Multi – Model Transit Transport?",
+   "id": "10-social-civics-5-018"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "short",
+   "q": "What is the role of Japan India Institute of Manufacturing (JIM)?",
+   "id": "10-social-civics-5-019"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "short",
+   "q": "How do you assess the importance of Chabahar agreement?",
+   "id": "10-social-civics-5-020"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "short",
+   "q": "Mention the member countries of BRICS.",
+   "id": "10-social-civics-5-021"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "short",
+   "q": "List out any five global groupings in which India is a member.",
+   "id": "10-social-civics-5-022"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "long",
+   "q": "Trace the reason for the formation of BRICS and write its objectives.",
+   "id": "10-social-civics-5-023"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "long",
+   "q": "Mention OPEC missions and how does it help other countries?",
+   "id": "10-social-civics-5-024"
+  },
+  {
+   "section": "civics",
+   "unit": 5,
+   "type": "long",
+   "q": "Highlight India and International organisation with special reference to any three India’s global groupings.",
+   "id": "10-social-civics-5-025"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "GNP equals",
+   "options": [
+    "NNP adjusted for inflation",
+    "GDP adjusted for inflation",
+    "GDP plus net property income from abroad",
+    "NNP plus net property income or"
+   ],
+   "id": "10-social-economics-1-001"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "National Income is a measure of",
+   "options": [
+    "Total value of money",
+    "Total value of producer goods",
+    "Total value of consumption goods",
+    "Total value of goods and services"
+   ],
+   "id": "10-social-economics-1-002"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Primary sector consist of",
+   "options": [
+    "Agriculture",
+    "Automobiles",
+    "Trade",
+    "Banking"
+   ],
+   "id": "10-social-economics-1-003"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "___ approach is the value added by each intermediate good is summed to estimate the value of the final good.",
+   "options": [
+    "Expenditure approach",
+    "Value added approach",
+    "income approach",
+    "National Income"
+   ],
+   "id": "10-social-economics-1-004"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Gross value added at current prices for services sector is estimated at ___ lakh crore in 2018-19.",
+   "options": [
+    "91.06",
+    "92.26",
+    "80.07",
+    "98.29"
+   ],
+   "id": "10-social-economics-1-005"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "India is ___ larger producer in agricultural product.",
+   "options": [
+    "1st",
+    "3rd",
+    "4th",
+    "2nd"
+   ],
+   "id": "10-social-economics-1-006"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "India’s life expectancy at birth is ___ years.",
+   "options": [
+    "65",
+    "60",
+    "70",
+    "55"
+   ],
+   "id": "10-social-economics-1-007"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "mcq",
+   "q": "Which one is a trade policy?.",
+   "options": [
+    "irrigation policy",
+    "import and export policy",
+    "land-reform policy",
+    "wage policy"
+   ],
+   "id": "10-social-economics-1-008"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "fill",
+   "q": "_____ is the primary sector in India.",
+   "id": "10-social-economics-1-009"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "fill",
+   "q": "_____ is an indicator to show the living standard of people",
+   "id": "10-social-economics-1-010"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "fill",
+   "q": "Secondary sector otherwise called as _____.",
+   "id": "10-social-economics-1-011"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "match",
+   "q": "1. Electricity/ – National Income /\nGas and Water Population\n2. Price policy – Gross Domestic\nProduct\n3. GST – Industry Sector\n4. Per capita income – Agriculture\n5. C + I + G + (X-M) – Tax on goods and\nservice",
+   "id": "10-social-economics-1-012"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "short",
+   "q": "Define National income.",
+   "id": "10-social-economics-1-013"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "short",
+   "q": "What is meant by Gross domestic product?",
+   "id": "10-social-economics-1-014"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "short",
+   "q": "Write the importance of Gross domestic product.",
+   "id": "10-social-economics-1-015"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "short",
+   "q": "What is per capita income?.",
+   "id": "10-social-economics-1-016"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "short",
+   "q": "Define the value added approach with example.",
+   "id": "10-social-economics-1-017"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "short",
+   "q": "Write the name of economic policies in India.",
+   "id": "10-social-economics-1-018"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "short",
+   "q": "Write a short note 1) Gross National Happiness(GNH) 2) Human Development Index(HDI)",
+   "id": "10-social-economics-1-019"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "long",
+   "q": "Briefly explain various terms associated with measuring of national income.",
+   "id": "10-social-economics-1-020"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "long",
+   "q": "What are the methods of calculating Gross Domestic Product? and explain its.",
+   "id": "10-social-economics-1-021"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "long",
+   "q": "Write any five differences between the growth and development.",
+   "id": "10-social-economics-1-022"
+  },
+  {
+   "section": "economics",
+   "unit": 1,
+   "type": "long",
+   "q": "Explain the following the economic policies 1.Agricultural Policy 2.Industrial policy 3.New economic policy Gross Domestic its Growth: an",
+   "id": "10-social-economics-1-023"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Who is the head of the World Trade Organisation (WTO)",
+   "options": [
+    "Ministerial conference",
+    "Director General",
+    "Deputy Director General",
+    "None of these"
+   ],
+   "id": "10-social-economics-2-001"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Colonial advent in India",
+   "options": [
+    "Portuguese, Dutch, English, Danish, French",
+    "Dutch, English, Danish, French",
+    "Portuguese, Danish, Dutch, French, English",
+    "Danish, Portuguese, French, English"
+   ],
+   "id": "10-social-economics-2-002"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "GATT’s first round held in",
+   "options": [
+    "Tokyo",
+    "Uruguay",
+    "Torquay",
+    "Geneva"
+   ],
+   "id": "10-social-economics-2-003"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "India signed the Dunkel proposal in",
+   "options": [
+    "1984",
+    "1976",
+    "1950",
+    "1994"
+   ],
+   "id": "10-social-economics-2-004"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "who granted the English “golden Fireman” in 1632",
+   "options": [
+    "Jahangir",
+    "Sultan of Golconda",
+    "Akbar",
+    "Aurangzeb"
+   ],
+   "id": "10-social-economics-2-005"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "mcq",
+   "q": "Foreign Investment policy (FIP) announced in",
+   "options": [
+    "June 1991",
+    "July 1991",
+    "JulyAug-1991",
+    "Aug 1991"
+   ],
+   "id": "10-social-economics-2-006"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "fill",
+   "q": "A better economy introduce rapid development of the ________.",
+   "id": "10-social-economics-2-007"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "fill",
+   "q": "WTO agreement came into force from ______.",
+   "id": "10-social-economics-2-008"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "fill",
+   "q": "The term globalization invented by ______.",
+   "id": "10-social-economics-2-009"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "match",
+   "q": "1. Multination\ncorporation in India - 1947\n2. MNC - enforce\ninternational\ntrade\n3. GATT - Minimize cost of\nproduction\n4. WTO - Infosys",
+   "id": "10-social-economics-2-010"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "What is globalization?",
+   "id": "10-social-economics-2-011"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "Write the types of globalization.",
+   "id": "10-social-economics-2-012"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "Write short note on Multinational corporation.",
+   "id": "10-social-economics-2-013"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "What are the reforms made to adopt globalization?",
+   "id": "10-social-economics-2-014"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "What is Fair trade?",
+   "id": "10-social-economics-2-015"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "Write any two principles of Fair Trade Practices.",
+   "id": "10-social-economics-2-016"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "Write any two positive impact of Globalization.",
+   "id": "10-social-economics-2-017"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "Briefly explain the advantages and disadvantages of MNC.",
+   "id": "10-social-economics-2-018"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "Write about the World Trade Organisation.",
+   "id": "10-social-economics-2-019"
+  },
+  {
+   "section": "economics",
+   "unit": 2,
+   "type": "short",
+   "q": "Write the challenges of Globalization.",
+   "id": "10-social-economics-2-020"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Buffer stock is the stock of food grains, namely wheat and rice, procured by the government through the ___.",
+   "options": [
+    "FCI",
+    "Consumer Cooperatives",
+    "ICICI",
+    "IFCI"
+   ],
+   "id": "10-social-economics-3-001"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Which is correct? i) HYV–High Yielding Varieties ii) MSP–Minimum Support Price iii) PDS–Public Distribution System iv) FCI–Food Corporation of India basic components of food and nutrition security. in food grain production. passed by the Indian Parliament in 2013. agricultural goods was announced by the Central development.",
+   "options": [
+    "i and ii are correct",
+    "iii and iv are correct",
+    "ii and iii are correct",
+    "all are correct"
+   ],
+   "id": "10-social-economics-3-002"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "___ extended assistance through its Public Law 480.",
+   "options": [
+    "United States of America",
+    "India",
+    "Singapore",
+    "UK"
+   ],
+   "id": "10-social-economics-3-003"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "___ revolution was born in India paving way for self-sufficiency in food grain production.",
+   "options": [
+    "Blue Revolution",
+    "White Revolution",
+    "Green Revolution",
+    "Grey Revolution"
+   ],
+   "id": "10-social-economics-3-004"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "___ is the only state in India to adopt universal PDS.",
+   "options": [
+    "Kerala",
+    "Andhra Pradesh",
+    "Tamil Nadu",
+    "Karnataka"
+   ],
+   "id": "10-social-economics-3-005"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "___ is the process of providing or obtaining the food necessary for health and growth.",
+   "options": [
+    "Health",
+    "Nutrition",
+    "Sanitation",
+    "Security"
+   ],
+   "id": "10-social-economics-3-006"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "fill",
+   "q": "___ is an important indicator of nutrition deficiency.",
+   "id": "10-social-economics-3-007"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "fill",
+   "q": "In the year ___ National Food Security Act was passed by the Indian Parliament.",
+   "id": "10-social-economics-3-008"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "fill",
+   "q": "___ play an important role in the supply of quality goods at responsible rates to common people.",
+   "id": "10-social-economics-3-009"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "match",
+   "q": "1. Consumer\ncooperatives – subsidized rates\n2. Public Distribution\nSystem – 2013\n3. UNDP – supply of quality\ngoods\n4. National\nFood Security Act – United Nations\nDevelopment\nProgramme",
+   "id": "10-social-economics-3-010"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "mcq",
+   "q": "Assertion (A): Purchasing power increases, price decreases and vice versa. Reason (R): The production of goods decline, the price of goods increases and then the purchasing power is affected.",
+   "options": [
+    "A is correct, R is false",
+    "Both A and R are false statements",
+    "A is correct but R is not a correct explanation",
+    "A is correct, R is the correct explanation"
+   ],
+   "id": "10-social-economics-3-011"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "short",
+   "q": "Define food security according to FAO.",
+   "id": "10-social-economics-3-012"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "short",
+   "q": "What are the basic three components of of food and nutrition security?",
+   "id": "10-social-economics-3-013"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "short",
+   "q": "What is the role of FCI in Green Revolution?",
+   "id": "10-social-economics-3-014"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "short",
+   "q": "What are the effects of Green Revolution?",
+   "id": "10-social-economics-3-015"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "short",
+   "q": "Write some name of the nutrition programmes in Tamil Nadu.",
+   "id": "10-social-economics-3-016"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "long",
+   "q": "Elucidate why the Green Revolution was born.",
+   "id": "10-social-economics-3-017"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "long",
+   "q": "Explain Minimum Support Price.",
+   "id": "10-social-economics-3-018"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "long",
+   "q": "Elaborate the Public Distribution System.",
+   "id": "10-social-economics-3-019"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "long",
+   "q": "What are the factors affecting the purchasing power and explain them.",
+   "id": "10-social-economics-3-020"
+  },
+  {
+   "section": "economics",
+   "unit": 3,
+   "type": "long",
+   "q": "What are the main objectives of the new Agricultural Policy?",
+   "id": "10-social-economics-3-021"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The three levels of governments in India are",
+   "options": [
+    "Union, state and local",
+    "Union, state and village",
+    "Union, municipality and panchayat",
+    "None of the above"
+   ],
+   "id": "10-social-economics-4-001"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "In India, taxes are including",
+   "options": [
+    "Direct taxes",
+    "Indirect taxes.",
+    "Both (a) and (b)",
+    "None of these"
+   ],
+   "id": "10-social-economics-4-002"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Which is the role of government and development policies?",
+   "options": [
+    "Defence",
+    "Foreign policy",
+    "Regulate the economy",
+    "all of above"
+   ],
+   "id": "10-social-economics-4-003"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "The most common and important tax levied on an individual in India is",
+   "options": [
+    "Service tax",
+    "Excise duty.",
+    "Income tax",
+    "Central sales tax"
+   ],
+   "id": "10-social-economics-4-004"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Under which tax one nation, one uniform tax is ensured",
+   "options": [
+    "Value added tax (VAT)",
+    "Income tax",
+    "Goods and service tax",
+    "Sales tax"
+   ],
+   "id": "10-social-economics-4-005"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Income tax was introduced in India for the first time in the year ____.",
+   "options": [
+    "1860",
+    "1870",
+    "1880",
+    "1850"
+   ],
+   "id": "10-social-economics-4-006"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "____ tax is charged on the benefits derived from property ownership.",
+   "options": [
+    "Income tax",
+    "Wealth tax",
+    "Corporate tax",
+    "Excise duty"
+   ],
+   "id": "10-social-economics-4-007"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "What are identified as causes of black money?",
+   "options": [
+    "Shortage of goods",
+    "High tax rate",
+    "Smuggling",
+    "All of above"
+   ],
+   "id": "10-social-economics-4-008"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "fill",
+   "q": "_______ is levied by government for the development of the state’s economy.",
+   "id": "10-social-economics-4-009"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "fill",
+   "q": "The origin of the word ‘tax’ is from the word ______.",
+   "id": "10-social-economics-4-010"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "fill",
+   "q": "The burden of the _______ tax cannot be shifted to others.",
+   "id": "10-social-economics-4-011"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "fill",
+   "q": "The Goods and Service Tax act came into effect on _______.",
+   "id": "10-social-economics-4-012"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "fill",
+   "q": "The unaccounted money that is concealed from the tax administrator is called ______.",
+   "id": "10-social-economics-4-013"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "mcq",
+   "q": "Which of the following statement is correct about GST? (i) GST is the ‘one point tax’. (ii) This aims to replace all direct taxes levied on goods and services by the Central and State governments. (iii) It will be implemented from 1st July 2017 throughout the country. (iv) It will unified the tax structure in India.",
+   "options": [
+    "(i) and (ii) are correct",
+    "(ii), (iii) and (iv) are correct",
+    "(i), (iii) and (iv) are correct",
+    "All are correct"
+   ],
+   "id": "10-social-economics-4-014"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "match",
+   "q": "1. Income Tax - Value added tax\n2. Excise duty - 1 July 2017\n3. VAT - Smuggling\n4. GST - Direct tax\n5. Black money - Indirect tax",
+   "id": "10-social-economics-4-015"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "Define tax.",
+   "id": "10-social-economics-4-016"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "Why we pay tax to the government?",
+   "id": "10-social-economics-4-017"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "What are the types of tax? Give examples.",
+   "id": "10-social-economics-4-018"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "Write short note on Goods and Service Tax.",
+   "id": "10-social-economics-4-019"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "What is progressive tax?",
+   "id": "10-social-economics-4-020"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "What is meant by black money?",
+   "id": "10-social-economics-4-021"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "What is tax evasion?",
+   "id": "10-social-economics-4-022"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "short",
+   "q": "Write any two difference between tax and payments?",
+   "id": "10-social-economics-4-023"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "long",
+   "q": "Explain some direct and indirect taxes.",
+   "id": "10-social-economics-4-024"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "long",
+   "q": "Write the structure of GST.",
+   "id": "10-social-economics-4-025"
+  },
+  {
+   "section": "economics",
+   "unit": 4,
+   "type": "long",
+   "q": "What is black money? Write the causes of black money.",
+   "id": "10-social-economics-4-026"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "‘The Detroit of Asia’ is.",
+   "options": [
+    "Tuticorin",
+    "Coimbatore",
+    "Chennai",
+    "Madurai"
+   ],
+   "id": "10-social-economics-5-001"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Pumpsets and motors are produced mostly in",
+   "options": [
+    "Salem",
+    "Coimbatore",
+    "Chennai",
+    "Dharampuri"
+   ],
+   "id": "10-social-economics-5-002"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "_____ are an essential aspect of a nation’s development.",
+   "options": [
+    "agriculture",
+    "industry",
+    "railway",
+    "none of these"
+   ],
+   "id": "10-social-economics-5-003"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Tiruppur is known for",
+   "options": [
+    "Leather tanning",
+    "Lock making",
+    "Knitwear",
+    "Agro-processing"
+   ],
+   "id": "10-social-economics-5-004"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "A successful industrial cluster entirely created by the Tamil Nadu is",
+   "options": [
+    "Hosur",
+    "Dindigul",
+    "Kovilpatti",
+    "Tirunelveli"
+   ],
+   "id": "10-social-economics-5-005"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "fill",
+   "q": "Hundred of leather and tannery facilities are located around ________ district in Tamil Nadu.",
+   "id": "10-social-economics-5-006"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "fill",
+   "q": "Special Economic Zones policy was introduced in ________.",
+   "id": "10-social-economics-5-007"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Which one of the following is not having leather factories?",
+   "options": [
+    "Ranipet",
+    "Dharmapuri",
+    "Ambur",
+    "Vaniyambadi"
+   ],
+   "id": "10-social-economics-5-008"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "mcq",
+   "q": "Which one of the following is not an industrial developing agency?",
+   "options": [
+    "TIDCO",
+    "SIDCO",
+    "MEPZ",
+    "SIPCOT"
+   ],
+   "id": "10-social-economics-5-009"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "match",
+   "q": "1. Entrepreneur - Export\nProcessing\nZone\n2. MEPZ - Coimbatore\n3. TANSI - Innovator\n4. Manchester of South India - 1965",
+   "id": "10-social-economics-5-010"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "Why are wages low in the agricultural sector?",
+   "id": "10-social-economics-5-011"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "What is meant by an industrial cluster?",
+   "id": "10-social-economics-5-012"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "What are the routes for cluster formation?",
+   "id": "10-social-economics-5-013"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "Mention any three industrial development agencies in Tamil Nadu.",
+   "id": "10-social-economics-5-014"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "What are the problems of industrialization currently in Tamil Nadu?",
+   "id": "10-social-economics-5-015"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "What is meant by entrepreneur?",
+   "id": "10-social-economics-5-016"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "What is entrepreneurship?",
+   "id": "10-social-economics-5-017"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "What are the important characteristics of successful industrial clusters?",
+   "id": "10-social-economics-5-018"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "Write in detail about the types of policies adopted by the Tamil Nadu Government to industrialise.",
+   "id": "10-social-economics-5-019"
+  },
+  {
+   "section": "economics",
+   "unit": 5,
+   "type": "short",
+   "q": "Explain the role of entreprenuer? Industrial Clusters get the details of SIPCOT in new tab.",
+   "id": "10-social-economics-5-020"
+  }
+ ]
+}

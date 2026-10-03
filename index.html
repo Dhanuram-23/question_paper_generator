@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache" />
+  <title>Question Paper Generator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&family=Noto+Sans+Tamil:wght@400;600;700&family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css?v=8" />
+</head>
+<body>
+  <header class="app-header no-print">
+    <h1>📝 Question Paper Generator</h1>
+    <p>Class → subject → units → model paper → new paper from the textbook exercises → edit → download.</p>
+  </header>
+
+  <main class="no-print">
+    <section class="card" id="step-class">
+      <h2><span class="step">1</span> Select class</h2>
+      <div class="chips" id="class-list"><span class="muted">Loading… (if this stays, a file is missing – check the Terminal for 404 lines)</span></div>
+    </section>
+
+    <section class="card hidden" id="step-subject">
+      <h2><span class="step">2</span> Select subject</h2>
+      <div class="chips" id="subject-list"></div>
+    </section>
+
+    <section class="card hidden" id="step-units">
+      <h2><span class="step">3</span> Select units</h2>
+      <div class="row">
+        <button class="btn small" id="units-all">Select all</button>
+        <button class="btn small ghost" id="units-none">Clear</button>
+        <span class="muted" id="bank-info"></span>
+      </div>
+      <div id="unit-groups"></div>
+      <div id="weights-box" class="weights hidden">
+        <strong>Weightage (ratio of questions)</strong>
+        <div class="row" id="weights"></div>
+        <span class="muted small">Example 3 : 2 : 1 : 1 → for every 7 questions, 3 History, 2 Geography, 1 Civics, 1 Economics. Use 0 to leave a section out.</span>
+      </div>
+    </section>
+
+    <section class="card hidden" id="step-pattern">
+      <h2><span class="step">4</span> Question paper pattern</h2>
+      <div class="upload-box">
+        <strong>Upload a model question paper</strong> <span class="muted">(Word .docx, PDF or .txt)</span>
+        <div class="row"><input type="file" id="model-file" accept=".pdf,.docx,.txt" /><span id="model-status" class="muted"></span></div>
+        <div id="model-notes"></div>
+        <details id="model-text-box" class="hidden"><summary>Show text read from the paper</summary><pre id="model-text"></pre></details>
+      </div>
+
+      <div class="row">
+        <label>…or use a saved pattern <select id="pattern-select"></select></label>
+        <button class="btn small ghost" id="pattern-delete">Delete</button>
+      </div>
+
+      <p class="muted small">Each part keeps the same kinds of questions as the model paper, in the same order.
+        <b>From</b> = which section to take them from (<i>any</i> follows the weightage ratio).
+        <b>Combined</b> = one question made of parts, e.g. 2 Distinguish + 1 Give reason.</p>
+      <div id="pattern-parts"></div>
+      <div class="row">
+        <button class="btn small" id="part-add">+ Add part</button>
+        <strong id="pattern-total"></strong>
+      </div>
+      <div class="row">
+        <input type="text" id="pattern-name" placeholder="Pattern name, e.g. June Monthly Test 50 marks" />
+        <button class="btn small" id="pattern-save">Save pattern</button>
+      </div>
+    </section>
+
+    <section class="card hidden" id="step-generate">
+      <h2><span class="step">5</span> Paper details</h2>
+      <div class="grid2">
+        <label>School name <input type="text" id="h-school" /></label>
+        <label>Exam name <input type="text" id="h-exam" placeholder="e.g. June Monthly Test – 2026" /></label>
+        <label>Class <input type="text" id="h-cls" placeholder="e.g. X – A" /></label>
+        <label>Date <input type="text" id="h-date" placeholder="e.g. 15.06.2026 (optional)" /></label>
+        <label>Time <input type="text" id="h-time" placeholder="e.g. 1 Hr 30 Min" /></label>
+        <label>Set code <input type="text" id="h-seed" placeholder="blank = random" /></label>
+      </div>
+      <div class="row"><button class="btn primary" id="generate">Generate paper</button></div>
+      <div id="warnings"></div>
+    </section>
+  </main>
+
+  <section class="hidden" id="preview">
+    <div class="toolbar no-print">
+      <button class="btn" id="reshuffle">🔀 Shuffle again</button>
+      <button class="btn" id="toggle-settings">⚙️ Page &amp; text settings</button>
+      <button class="btn primary" id="dl-docx">⬇️ Download Word (.docx)</button>
+      <button class="btn primary" id="dl-pdf">⬇️ Download PDF</button>
+      <span class="muted small" id="seed-info"></span>
+    </div>
+
+    <div class="settings no-print hidden" id="settings">
+      <div class="row" style="margin-top:0;justify-content:space-between">
+        <h3>⚙️ Page &amp; text settings <span class="muted small">(used for the screen, the PDF and the Word file; remembered in this browser)</span></h3>
+        <button class="btn small ghost" id="layout-reset">Reset to default</button>
+      </div>
+      <div class="set-grid">
+        <fieldset><legend>📄 Page</legend>
+          <label>Paper size <select data-set="paper" id="set-paper"></select></label>
+          <label>Orientation <span class="seg" data-seg="orientation"><button data-v="portrait">Portrait</button><button data-v="landscape">Landscape</button></span></label>
+          <label>Columns <span class="seg" data-seg="columns"><button data-v="1">1</button><button data-v="2">2</button></span></label>
+          <div class="hint">With 2 columns, each column is its own page with its own header and footer.</div>
+          <label>Gap between columns (mm) <input type="number" min="0" max="40" data-set="columnGap"></label>
+          <label class="check"><input type="checkbox" data-set="columnLine"> Line between the columns</label>
+          <label>Margin top (mm) <input type="number" min="0" max="60" data-set="marginTop"></label>
+          <label>Margin bottom (mm) <input type="number" min="0" max="60" data-set="marginBottom"></label>
+          <label>Margin left (mm) <input type="number" min="0" max="60" data-set="marginLeft"></label>
+          <label>Margin right (mm) <input type="number" min="0" max="60" data-set="marginRight"></label>
+        </fieldset>
+
+        <fieldset><legend>🏫 Header</legend>
+          <label>Show header on <span class="seg" data-seg="headerOn"><button data-v="first">First page only</button><button data-v="every">Every page / column</button></span></label>
+          <label>School &amp; exam name <span class="seg" data-seg="headerAlign"><button data-v="left">Left</button><button data-v="center">Centre</button><button data-v="right">Right</button></span></label>
+          <label>Subject · Class · Date · Time · Marks <select data-set="infoStyle">
+            <option value="spread">Two lines, spread left–right</option>
+            <option value="line">All on one line</option>
+            <option value="stacked">One below the other</option></select></label>
+          <label>…their alignment <span class="seg" data-seg="infoAlign"><button data-v="left">Left</button><button data-v="center">Centre</button><button data-v="right">Right</button></span></label>
+          <div class="hint">Alignment applies to "one line" and "one below the other". "Spread" puts Subject / Class on the left, Date in the middle, Time / Marks on the right.</div>
+          <label>…their size (pt) <input type="number" min="7" max="20" step="0.5" data-set="infoSize"></label>
+          <label class="check"><input type="checkbox" data-set="infoBold"> Subject · Class · Date · Time · Marks bold</label>
+          <label>Top line <input type="text" data-set="topNote" placeholder="e.g. Reg. No. __________"></label>
+          <label>…its alignment <span class="seg" data-seg="topNoteAlign"><button data-v="left">Left</button><button data-v="center">Centre</button><button data-v="right">Right</button></span></label>
+          <label class="check"><input type="checkbox" data-set="headerLine"> Line under the header</label>
+        </fieldset>
+
+        <fieldset><legend>🦶 Footer</legend>
+          <label>Footer text <input type="text" data-set="footerText" placeholder="e.g. Page {page} of {pages}"></label>
+          <div class="hint">Shown at the bottom of every page / column. {page} = page number, {pages} = total. Leave empty for no footer.
+            <br><button class="btn tiny" data-footer="Page {page} of {pages}">Page 1 of 2</button>
+            <button class="btn tiny" data-footer="{page}">1</button>
+            <button class="btn tiny" data-footer="- {page} -">- 1 -</button>
+            <button class="btn tiny" data-footer="*** All the Best ***">All the Best</button>
+            <button class="btn tiny" data-footer="">None</button></div>
+          <label>Footer alignment <span class="seg" data-seg="footerAlign"><button data-v="left">Left</button><button data-v="center">Centre</button><button data-v="right">Right</button></span></label>
+          <label>Footer size (pt) <input type="number" min="6" max="16" step="0.5" data-set="footerSize"></label>
+          <label class="check"><input type="checkbox" data-set="footerLine"> Line above the footer</label>
+        </fieldset>
+
+        <fieldset><legend>🔤 Font</legend>
+          <label>Font <select data-set="font" id="set-font"></select></label>
+          <label>Question text size (pt) <input type="number" min="7" max="24" step="0.5" data-set="fontSize"></label>
+          <label>School name size (pt) <input type="number" min="8" max="32" step="0.5" data-set="schoolSize"></label>
+          <label>Exam name size (pt) <input type="number" min="8" max="28" step="0.5" data-set="examSize"></label>
+          <label>Part heading size (pt) <input type="number" min="7" max="24" step="0.5" data-set="headingSize"></label>
+          <label>Text colour <input type="color" data-set="textColor"></label>
+          <label class="check"><input type="checkbox" data-set="boldSchool"> School name bold</label>
+          <label class="check"><input type="checkbox" data-set="boldHeadings"> Part headings bold</label>
+          <label class="check"><input type="checkbox" data-set="boldNumbers"> Question numbers bold</label>
+        </fieldset>
+
+        <fieldset><legend>↔️ Questions – alignment &amp; spacing</legend>
+          <label>"Part – I" titles <span class="seg" data-seg="partTitleAlign"><button data-v="left">Left</button><button data-v="center">Centre</button><button data-v="right">Right</button></span></label>
+          <label>Part headings <span class="seg" data-seg="headingAlign"><button data-v="left">Left + marks right</button><button data-v="center">Centre</button></span></label>
+          <label>Question text <span class="seg" data-seg="textAlign"><button data-v="left">Left</button><button data-v="justify">Justify</button></span></label>
+          <label>Line spacing <select data-set="lineSpacing"><option value="1">1.0</option><option value="1.15">1.15</option><option value="1.3">1.3</option><option value="1.5">1.5</option><option value="2">2.0</option></select></label>
+          <label>Space after each question (pt) <input type="number" min="0" max="30" data-set="questionGap"></label>
+          <label>Space before each part (pt) <input type="number" min="0" max="40" data-set="partGap"></label>
+          <label>MCQ options per line <select data-set="optionsPerRow"><option value="auto">Auto</option><option value="1">1</option><option value="2">2</option><option value="4">4</option></select></label>
+          <label>Map places per line <select data-set="placesPerRow"><option value="auto">Auto</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select></label>
+        </fieldset>
+      </div>
+    </div>
+
+    <div class="no-print tip">✏️ Click any text on the paper to edit it. 🔄 swaps a question with another one from the book, ▲▼ move it, ✕ removes it, "+ Add my own question" adds a blank one. Everything is kept in both downloads.</div>
+    <div class="no-print" id="tally"></div>
+    <div class="paper-wrap"><article id="paper"></article></div>
+  </section>
+
+  <footer class="no-print muted">Questions come only from the textbook exercise bank in <code>/data</code>. Nothing is made up. · Version <b id="app-version">?</b></footer>
+  <script type="module" src="js/app.js?v=8"></script>
+</body>
+</html>
