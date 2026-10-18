@@ -5,7 +5,13 @@
 // Entry kinds:
 //   single : { kind:"single", type:"short", n:7, from:"any" }
 //   group  : { kind:"group", n:1, subs:[{type:"distinguish",k:2,from:"geography"},{type:"reason",k:1,from:"geography"}] }
-//   map    : { kind:"map", n:1, places:5, from:"history", mapName:"World Map" }
+//   map    : { kind:"map", n:1, places:5, from:"history", mapType:"world map" }
+//            Map questions are NOT tied to units. Places come from the bank entry whose
+//            section = from and map_type = mapType (e.g. "world map" / "indian map").
+//            mapName is still accepted (e.g. "World Map") and used to work out the map type.
+// Either/Or: an entry may carry orB = { kind, type, from, places, mapType, mapName, subs }
+//   giving the kind of question for option (b). If orB is missing, (b) is the same kind as (a).
+//   e.g. { kind:"single", type:"long", n:1, from:"history", orB:{ kind:"single", type:"timeline", from:"history" } }
 // from = "any" uses the weightage ratio (e.g. History 3 : Geography 2 : Civics 1 : Economics 1).
 
 export const QUESTION_TYPES = {
@@ -47,7 +53,19 @@ export const unitKey = (q) => `${q.section || "main"}:${q.unit}`;
 
 export function normaliseEntry(e) {
   if (!e.kind) return { kind: "single", type: e.type || "short", n: Number(e.n) || 0, from: "any" };
-  return { from: "any", ...e };
+  const out = { from: "any", ...e };
+  if (out.orB) out.orB = normaliseB(out.orB, out);
+  else delete out.orB;
+  return out;
+}
+/** Option (b) spec for an Either/Or entry. Shares n with (a). */
+export function normaliseB(b, a = {}) {
+  if (!b) return null;
+  const kind = b.kind || "single";
+  const base = { kind, n: a.n, from: b.from || "any" };
+  if (kind === "map") return { ...base, places: Number(b.places) || 5, mapType: b.mapType || "", mapName: b.mapName || "" };
+  if (kind === "group") return { ...base, subs: (b.subs || []).map((x) => ({ type: x.type, k: Number(x.k) || 1, from: x.from || "any" })) };
+  return { ...base, type: b.type || "short" };
 }
 export const entryCount = (e) => Number(e.n) || 0;
 export const partCount = (part) => part.mix.reduce((s, e) => s + entryCount(e), 0);
@@ -79,16 +97,58 @@ export function placesFrom(text) {
   return [...new Set(out)];
 }
 
+/** Questions with unit "any" (e.g. the generic history timeline) are not tied to a unit
+ *  and are always available, whatever units are selected. */
+export const isAnyUnit = (q) => String(q.unit).toLowerCase() === "any";
 function poolOf(bank, type, units, from) {
   const sel = new Set(units);
-  return bank.filter((q) => q.type === type && sel.has(unitKey(q)) && (from === "any" || !from || q.section === from));
+  return bank.filter((q) => q.type === type && (isAnyUnit(q) || sel.has(unitKey(q))) && (from === "any" || !from || q.section === from));
 }
-function placePool(bank, units, from) {
-  const out = [];
-  for (const q of poolOf(bank, "map", units, from)) {
-    placesFrom(q.q).forEach((p, i) => out.push({ id: `${q.id}#${i}`, q: p, section: q.section, unit: q.unit, type: "place" }));
+/** "World Map" / "world" / "indian map" / "India" -> "world" / "indian" */
+export const mapKey = (s) => {
+  const k = String(s || "").toLowerCase().replace(/\bmap\b/g, "").replace(/\s+/g, " ").trim();
+  if (/\bworld\b/.test(k)) return "world";
+  if (/\bindia/.test(k)) return "indian";
+  return k;
+};
+const titleCase = (s) => String(s).replace(/\b\w/g, (c) => c.toUpperCase());
+/** Map type for an entry: mapType first, then mapName, else "" (any map). */
+export const entryMapType = (e) => mapKey(e.mapType || e.map_type || e.mapName || "");
+/** Map types available in the bank for a section, e.g. { history: ["world map","indian map"] } */
+export function mapTypes(bank) {
+  const out = {};
+  for (const q of bank) {
+    if (q.type !== "map" || !q.map_type) continue;
+    (out[q.section] ||= []);
+    if (!out[q.section].includes(q.map_type)) out[q.section].push(q.map_type);
   }
   return out;
+}
+/** All places for a section + map type. Units are ignored for map questions. */
+function placePool(bank, from, mapType) {
+  const want = mapKey(mapType);
+  const out = [];
+  for (const q of bank) {
+    if (q.type !== "map") continue;
+    if (from && from !== "any" && q.section !== from) continue;
+    if (want && q.map_type && mapKey(q.map_type) !== want) continue;
+    const list = Array.isArray(q.q) ? q.q.map((p) => String(p).trim()).filter(Boolean) : placesFrom(q.q);
+    const mt = q.map_type || "map";
+    list.forEach((p) => out.push({ id: `${q.id}#${p.toLowerCase()}`, q: p, section: q.section, unit: mt, type: "place" }));
+  }
+  return out;
+}
+function drawPlaces(ctx, n, from, mapType) {
+  if (n <= 0) return [];
+  const pool = placePool(ctx.bank, from, mapType);
+  const picked = pickSpread(pool, n, ctx.rng, ctx.used);
+  if (picked.length < n) {
+    const where = [from && from !== "any" ? from : "", mapType ? titleCase(mapType) : ""].filter(Boolean).join(" – ");
+    ctx.warnings.push(pool.length
+      ? `${ctx.label}: needs ${n} map places${where ? ` (${where})` : ""}, only ${picked.length} available.`
+      : `${ctx.label}: no map places found${where ? ` for ${where}` : ""}. Check "section" and "map_type" in the question bank.`);
+  }
+  return picked;
 }
 
 function pickSpread(pool, n, rng, used) {
@@ -124,9 +184,9 @@ function apportion(n, sections, weightsIn, tally) {
   return Object.fromEntries(sections.map((s, i) => [s, out[i]]));
 }
 
-function draw(ctx, type, n, from, isPlace = false) {
+function draw(ctx, type, n, from) {
   if (n <= 0) return [];
-  const get = (t, f) => (isPlace ? placePool(ctx.bank, ctx.units, f) : poolOf(ctx.bank, t, ctx.units, f));
+  const get = (t, f) => poolOf(ctx.bank, t, ctx.units, f);
   let picked = [];
   if (from && from !== "any") {
     picked = pickSpread(get(type, from), n, ctx.rng, ctx.used);
@@ -139,7 +199,7 @@ function draw(ctx, type, n, from, isPlace = false) {
     if (picked.length < n) picked.push(...pickSpread(full, n - picked.length, ctx.rng, ctx.used));
     picked = shuffle(picked, ctx.rng);
   }
-  for (const alt of isPlace ? [] : FALLBACK[type] || []) {
+  for (const alt of ctx.noFallback ? [] : FALLBACK[type] || []) {
     if (picked.length >= n) break;
     const more = pickSpread(get(alt, from), n - picked.length, ctx.rng, ctx.used);
     if (more.length) {
@@ -147,38 +207,39 @@ function draw(ctx, type, n, from, isPlace = false) {
       picked.push(...more);
     }
   }
-  if (picked.length < n && (isPlace || (from && from !== "any"))) {
+  if (picked.length < n && (from && from !== "any")) {
     const allUnits = [...new Set(ctx.bank.map(unitKey))].filter((k) => !from || from === "any" || k.startsWith(from + ":"));
-    const pool = isPlace ? placePool(ctx.bank, allUnits, from) : poolOf(ctx.bank, type, allUnits, from);
+    const pool = poolOf(ctx.bank, type, allUnits, from);
     const more = pickSpread(pool, n - picked.length, ctx.rng, ctx.used);
     if (more.length) {
       const us = [...new Set(more.map((q) => `${q.section} unit ${q.unit}`))].join(", ");
-      const what = isPlace ? "map places" : `"${typeLabel(type)}" questions`;
+      const what = `"${typeLabel(type)}" questions`;
       ctx.warnings.push(`${ctx.label}: the selected units don't have enough ${what}, so ${more.length} taken from ${us}. Change them in the preview if needed.`);
       picked.push(...more);
     }
   }
   if (picked.length < n) {
     const where = from && from !== "any" ? ` from ${from}` : "";
-    ctx.warnings.push(`${ctx.label}: needs ${n} ${isPlace ? "map places" : `"${typeLabel(type)}" questions`}${where}, only ${picked.length} found in the selected units.`);
+    ctx.warnings.push(`${ctx.label}: needs ${n} "${typeLabel(type)}" questions${where}, only ${picked.length} found in the selected units.`);
   }
-  if (!isPlace) for (const q of picked) ctx.tally[q.section] = (ctx.tally[q.section] || 0) + 1;
+  for (const q of picked) ctx.tally[q.section] = (ctx.tally[q.section] || 0) + 1;
   return picked;
 }
 
-const qView = (q) => ({ id: q.id, text: q.q, options: q.options ? [...q.options] : [], src: `${q.section} ${q.unit}`, type: q.type });
+const qView = (q) => ({ id: q.id, text: q.q, options: q.options ? [...q.options] : [], src: `${q.section} ${q.unit ?? ""}`.trim(), type: q.type });
 
 function buildEntry(ctx, e, count) {
   if (e.kind === "map") {
     const places = Math.max(1, Number(e.places) || 5);
-    const got = draw(ctx, "map", places * count, e.from, true);
-    const name = e.mapName || "map";
+    const mt = entryMapType(e);
+    const got = drawPlaces(ctx, places * count, e.from, mt);
+    const name = e.mapName || (mt ? `${titleCase(mt)} Map` : "map");
     for (let i = 0; i < count; i++) {
       const sec = got[i * places]?.section;
       if (sec) ctx.tally[sec] = (ctx.tally[sec] || 0) + 1;
     }
     return Array.from({ length: count }, (_, i) => ({
-      kind: "map", heading: `Mark the following on the ${name}.`,
+      kind: "map", mapType: mt, heading: `Mark the following on the ${name}.`,
       places: got.slice(i * places, (i + 1) * places).map(qView),
     }));
   }
@@ -206,17 +267,37 @@ export function generatePaper(bank, pattern, units, seed, weights = {}) {
   const tasks = [];
   pattern.parts.forEach((part, pi) => part.mix.forEach((raw) => {
     const e = normaliseEntry(raw);
-    if (entryCount(e)) tasks.push({ pi, e, per: part.eitherOr ? 2 : 1, label: partLabel(part) });
+    if (!entryCount(e)) return;
+    const label = partLabel(part);
+    if (part.eitherOr && e.orB) {
+      // (a) and (b) are different kinds: build each side separately, then pair them up
+      const pair = { pi, e, per: 2, label, sides: [] };
+      tasks.push(pair);
+      pair.sides.push({ e, label, bodies: null }, { e: e.orB, label: `${label} (b)`, bodies: null });
+    } else {
+      tasks.push({ pi, e, per: part.eitherOr ? 2 : 1, label });
+    }
   }));
-  const order = [...tasks.filter((t) => isFixed(t.e)), ...tasks.filter((t) => !isFixed(t.e))];
-  for (const t of order) { ctx.label = t.label; t.bodies = buildEntry(ctx, t.e, entryCount(t.e) * t.per); }
+  const jobs = [];
+  for (const t of tasks) {
+    if (t.sides) t.sides.forEach((sd) => jobs.push({ spec: sd.e, n: entryCount(t.e), label: sd.label, set: (b) => (sd.bodies = b) }));
+    else jobs.push({ spec: t.e, n: entryCount(t.e) * t.per, label: t.label, set: (b) => (t.bodies = b) });
+  }
+  const order = [...jobs.filter((j) => isFixed(j.spec)), ...jobs.filter((j) => !isFixed(j.spec))];
+  for (const j of order) { ctx.label = j.label; j.set(buildEntry(ctx, j.spec, j.n)); }
+  for (const t of tasks) {
+    if (!t.sides) continue;
+    const [A, B] = t.sides.map((sd) => sd.bodies || []);
+    t.bodies = [];
+    for (let i = 0; i < entryCount(t.e); i++) t.bodies.push(A[i], B[i]);
+  }
 
   const parts = pattern.parts.map((part, pi) => {
     const items = [];
     for (const t of tasks.filter((x) => x.pi === pi)) {
       for (let i = 0; i < entryCount(t.e); i++) {
         const alts = t.bodies.slice(i * t.per, i * t.per + t.per);
-        if (alts.length === t.per) items.push({ entry: t.e, alts });
+        if (alts.length === t.per && alts.every(Boolean)) items.push({ entry: t.e, alts });
       }
     }
     return { ...part, items };
@@ -238,8 +319,9 @@ export function usedIds(paper) {
 export function swapAlt(bank, paper, partIdx, itemIdx, altIdx, units, weights = {}, rng = Math.random) {
   const item = paper.parts[partIdx].items[itemIdx];
   const old = item.alts[altIdx];
-  const ctx = { bank, units, rng: () => rng(), used: usedIds(paper), weights, tally: {}, warnings: [], label: "" };
-  let e = item.entry;
+  // noFallback: a swap must give the same kind of question (e.g. timeline stays timeline)
+  const ctx = { bank, units, rng: () => rng(), used: usedIds(paper), weights, tally: {}, warnings: [], label: "", noFallback: true };
+  let e = altIdx === 1 && item.entry.orB ? item.entry.orB : item.entry;
   if (e.kind === "single" && old.src) e = { ...e, from: old.src.split(" ")[0], type: old.type || e.type };
   const [fresh] = buildEntry(ctx, e, 1);
   if (!fresh || (fresh.kind === "single" && !fresh.id)) return false;

@@ -1,5 +1,5 @@
 // Editable question paper: model -> HTML pieces, edits -> model.
-import { perRow, infoItems, spreadRows } from "./layout.js?v=8";
+import { perRow, infoItems, spreadRows } from "./layout.js?v=9";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const LET = "abcdefgh";

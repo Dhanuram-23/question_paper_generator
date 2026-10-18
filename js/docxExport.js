@@ -4,8 +4,8 @@
 // 1 column : a normal flowing Word document (header on the first page or on every page, footer with page numbers).
 // 2 columns: every printed page is a 2-column table; each column is its own page with its own
 //            header and footer, using exactly the same page breaks as the screen / PDF.
-import { subLabel, romanItem, blockList } from "./render.js?v=8";
-import { DEFAULT_LAYOUT, pageMm, perRow, infoItems, spreadRows, footerFor } from "./layout.js?v=8";
+import { subLabel, romanItem, blockList } from "./render.js?v=9";
+import { DEFAULT_LAYOUT, pageMm, perRow, infoItems, spreadRows, footerFor } from "./layout.js?v=9";
 
 const LET = "abcdefgh";
 const TW = 56.6929;              // twips per mm

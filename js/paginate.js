@@ -3,8 +3,8 @@
 // page with its own header (first only / every) and its own footer.
 // The result (which question is on which panel) is also used to build the Word file.
 
-import { headerHtml, blockList, blockHtml } from "./render.js?v=8";
-import { footerFor } from "./layout.js?v=8";
+import { headerHtml, blockList, blockHtml } from "./render.js?v=9";
+import { footerFor } from "./layout.js?v=9";
 
 const el = (cls, tag = "div") => { const e = document.createElement(tag); e.className = cls; return e; };
 

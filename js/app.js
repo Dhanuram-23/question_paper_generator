@@ -1,13 +1,13 @@
-import { generatePaper, swapAlt, patternTotal, partCount, unitKey, QUESTION_TYPES, normaliseEntry, sectionTally } from "./generator.js?v=8";
-import { loadPatterns, savePattern, deletePattern } from "./patterns.js?v=8";
-import { prepareDoc, applyEdit, addOwnQuestion, moveQuestion } from "./render.js?v=8";
-import { paginate } from "./paginate.js?v=8";
-import { detectPattern } from "./paperParser.js?v=8";
-import { extractText, loadScript } from "./fileText.js?v=8";
-import { buildDocx } from "./docxExport.js?v=8";
-import { loadLayout, saveLayout, DEFAULT_LAYOUT, PAPER_SIZES, FONTS, applyLayoutToPage } from "./layout.js?v=8";
+import { generatePaper, swapAlt, patternTotal, partCount, unitKey, QUESTION_TYPES, normaliseEntry, normaliseB, sectionTally, isAnyUnit } from "./generator.js?v=9";
+import { loadPatterns, savePattern, deletePattern } from "./patterns.js?v=9";
+import { prepareDoc, applyEdit, addOwnQuestion, moveQuestion } from "./render.js?v=9";
+import { paginate } from "./paginate.js?v=9";
+import { detectPattern } from "./paperParser.js?v=9";
+import { extractText, loadScript } from "./fileText.js?v=9";
+import { buildDocx } from "./docxExport.js?v=9";
+import { loadLayout, saveLayout, DEFAULT_LAYOUT, PAPER_SIZES, FONTS, applyLayoutToPage } from "./layout.js?v=9";
 
-export const APP_VERSION = "v8";
+export const APP_VERSION = "v9";
 const DOCX_LIB = "https://cdn.jsdelivr.net/npm/docx@9.6.1/dist/index.iife.js";
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -83,7 +83,7 @@ async function selectSubject(subject) {
 function renderUnits() {
   state.units = new Set();
   const counts = {};
-  for (const q of state.bank) counts[unitKey(q)] = (counts[unitKey(q)] || 0) + 1;
+  for (const q of state.bank) if (q.type !== "map" && !isAnyUnit(q)) counts[unitKey(q)] = (counts[unitKey(q)] || 0) + 1;
   $("unit-groups").innerHTML = sectionsOf(state.subject).map((sec) => `
     <div class="unit-group">
       ${sec.name ? `<h3><input type="checkbox" class="sec-toggle" data-sec="${sec.id}"> ${esc(sec.name)}</h3>` : ""}
@@ -208,6 +208,29 @@ const typeOptions = (sel, withSpecial) =>
 const fromOptions = (sel) => [["any", hasSections() ? "any (ratio)" : "any"], ...(hasSections() ? state.subject.sections.map((s) => [s.id, s.name]) : [])]
   .map(([k, v]) => `<option value="${k}" ${k === (sel || "any") ? "selected" : ""}>${v}</option>`).join("");
 
+// Either/Or: choose what kind of question option (b) is. "same" = same kind as (a).
+const newEntry = (v, n, from) => (v === "map" ? { kind: "map", n, places: 5, from: hasSections() ? "geography" : "any", mapName: "Outline Map of India" }
+  : v === "group" ? { kind: "group", n, from: "any", subs: [{ type: "distinguish", k: 2, from: "any" }, { type: "reason", k: 1, from: "any" }] }
+  : { kind: "single", type: v, n, from: from || "any" });
+function orBEditor(pi, ei, e) {
+  const b = e.orB;
+  const sel = !b ? "same" : b.kind === "single" ? b.type : b.kind;
+  const at = `data-p="${pi}" data-e="${ei}" data-b="1"`;
+  let extra = "";
+  if (b?.kind === "map") extra = `<input type="number" min="1" ${at} data-f="places" value="${b.places || 5}"> places on
+      <input type="text" ${at} data-f="mapName" value="${esc(b.mapName || "")}" placeholder="World Map" style="width:11rem">`;
+  const subs = b?.kind === "group" ? `<div class="subs">${(b.subs || []).map((s, si) => `
+      <div class="entry"><span class="badge">${"abcdefgh"[si]})</span>
+        <input type="number" min="1" ${at} data-s="${si}" data-f="k" value="${s.k}"> ×
+        <select ${at} data-s="${si}" data-f="type">${typeOptions(s.type, false)}</select>
+        from <select ${at} data-s="${si}" data-f="from">${fromOptions(s.from)}</select>
+        <button class="btn tiny ghost" data-act="bsub-del" data-p="${pi}" data-e="${ei}" data-s="${si}">✕</button></div>`).join("")}
+      <button class="btn tiny" data-act="bsub-add" data-p="${pi}" data-e="${ei}">+ part</button></div>` : "";
+  return `<div class="entry orb" style="margin-left:2rem"><span class="badge">(or b)</span>
+      <select ${at} data-f="kind"><option value="same" ${sel === "same" ? "selected" : ""}>Same as (a)</option>${typeOptions(sel, true)}</select>
+      ${b && b.kind !== "group" ? `from <select ${at} data-f="from">${fromOptions(b.from)}</select>` : ""}
+      ${extra}</div>${subs}`;
+}
 function renderPatternEditor() {
   let qn = 0;
   $("pattern-parts").innerHTML = state.pattern.parts.map((p, pi) => {
@@ -225,12 +248,13 @@ function renderPatternEditor() {
             from <select data-p="${pi}" data-e="${ei}" data-s="${si}" data-f="from">${fromOptions(s.from)}</select>
             <button class="btn tiny ghost" data-act="sub-del" data-p="${pi}" data-e="${ei}" data-s="${si}">✕</button></div>`).join("")}
           <button class="btn tiny" data-act="sub-add" data-p="${pi}" data-e="${ei}">+ part</button></div>` : "";
+      const bRow = p.eitherOr ? orBEditor(pi, ei, e) : "";
       return `<div class="entry"><span class="qno">${qlabel}</span>
           <input type="number" min="0" data-p="${pi}" data-e="${ei}" data-f="n" value="${e.n}"> ×
           <select data-p="${pi}" data-e="${ei}" data-f="kind">${typeOptions(sel, true)}</select>
           ${e.kind === "group" ? "" : `from <select data-p="${pi}" data-e="${ei}" data-f="from">${fromOptions(e.from)}</select>`}
           ${extra}
-          <button class="btn tiny ghost" data-act="entry-del" data-p="${pi}" data-e="${ei}" title="Remove">✕</button></div>${subs}`;
+          <button class="btn tiny ghost" data-act="entry-del" data-p="${pi}" data-e="${ei}" title="Remove">✕</button></div>${subs}${bRow}`;
     }).join("");
     return `<div class="pcard">
       <div class="prow">
@@ -256,14 +280,20 @@ function onPatternField(e, isChange) {
   const part = state.pattern.parts[+d.p];
   const v = e.target.type === "checkbox" ? e.target.checked : e.target.type === "number" ? (e.target.value === "" ? "" : Number(e.target.value)) : e.target.value;
   if (d.e === undefined) part[d.f] = v;
+  else if (d.b) {
+    const en = part.mix[+d.e];
+    if (d.f === "kind") {
+      if (v === "same") delete en.orB;
+      else en.orB = normaliseB(newEntry(v, en.n || 1, en.orB?.from || en.from), en);
+    } else if (d.s !== undefined) en.orB.subs[+d.s][d.f] = v;
+    else en.orB[d.f] = v;
+  }
   else if (d.s !== undefined) part.mix[+d.e].subs[+d.s][d.f] = v;
   else {
     const en = part.mix[+d.e];
     if (d.f === "kind") {
       const n = en.n || 1;
-      part.mix[+d.e] = v === "map" ? { kind: "map", n, places: 5, from: hasSections() ? "geography" : "any", mapName: "Outline Map of India" }
-        : v === "group" ? { kind: "group", n, from: "any", subs: [{ type: "distinguish", k: 2, from: "any" }, { type: "reason", k: 1, from: "any" }] }
-        : { kind: "single", type: v, n, from: en.from || "any" };
+      part.mix[+d.e] = { ...newEntry(v, n, en.from), ...(en.orB ? { orB: en.orB } : {}) };
     } else en[d.f] = v;
   }
   if (isChange && e.target.type !== "text") renderPatternEditor();
@@ -279,6 +309,8 @@ function onPatternClick(e) {
   if (d.act === "entry-del") part.mix.splice(+d.e, 1);
   if (d.act === "sub-add") part.mix[+d.e].subs.push({ type: "reason", k: 1, from: "any" });
   if (d.act === "sub-del") part.mix[+d.e].subs.splice(+d.s, 1);
+  if (d.act === "bsub-add") part.mix[+d.e].orB.subs.push({ type: "reason", k: 1, from: "any" });
+  if (d.act === "bsub-del") part.mix[+d.e].orB.subs.splice(+d.s, 1);
   renderPatternEditor();
 }
 
@@ -345,7 +377,7 @@ function wirePreview() {
     const [pi, ii, ai] = [+b.dataset.p, +b.dataset.i, +b.dataset.a];
     const act = b.dataset.act;
     if (act === "swap") {
-      if (!swapAlt(state.bank, state.paper, pi, ii, ai, [...state.units], state.weights)) alert("No other unused question of this kind in the selected units.");
+      if (!swapAlt(state.bank, state.paper, pi, ii, ai, [...state.units], state.weights)) alert("No other unused question of this kind is available. You can type over the question to change it.");
     } else if (act === "del") {
       if (!confirm("Remove this question from the paper?")) return;
       state.paper.parts[pi].items.splice(ii, 1);
