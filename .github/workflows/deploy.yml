@@ -1,4 +1,4 @@
-name: Build question bank & deploy to GitHub Pages
+name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
@@ -15,17 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Excel -> JSON (only if Excel files exist)
-        run: |
-          pip install openpyxl
-          if ls tools/*.xlsx >/dev/null 2>&1; then python tools/excel_to_json.py; fi
       - name: Collect site files
         run: |
           mkdir _site
-          cp -r index.html css js data .nojekyll _site/
+          cp -r index.html css js data _site/
+          touch _site/.nojekyll
           if [ -d images ]; then cp -r images _site/; fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
